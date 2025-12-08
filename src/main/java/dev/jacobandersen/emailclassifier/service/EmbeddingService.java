@@ -38,7 +38,7 @@ public class EmbeddingService {
     }
 
     public Mono<float[]> embedForClassification(String text) {
-        return embedText("task: classification | query: %s".formatted(text));
+        return embedText("classification: %s".formatted(text));
     }
 
     public Mono<float[]> embedText(String text) {
@@ -106,7 +106,7 @@ public class EmbeddingService {
     private Mono<EmbeddingEntity> processEmbedding(GenerateEmbeddingRequest request) {
         final var content = request.content();
 
-        return embedText(content)
+        return embedForClassification(content)
                 .map(embedding -> new EmbeddingEntity(request.category(), request.subcategory(), content, embedding))
                 .flatMap(embeddingRepository::save)
                 .onErrorResume(throwable -> {
