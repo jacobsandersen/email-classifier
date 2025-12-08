@@ -1,0 +1,945 @@
+[
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@secure-payments.com\nsubject: Urgent: Verify Your Account to Avoid Suspension\nreturn-path: verification@secure-payments.com\nbody: Dear Customer, we noticed unusual activity on your account. Please verify your identity within the next 10 minutes to avoid suspension. Click here: https://secure-payments.com/verify?token=Z9X8Y7"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@mybank-security.com\nsubject: Your Account Has Been Locked – Action Required\nreturn-path: security@mybank-security.com\nbody: <p>Dear user, due to multiple failed login attempts your account is locked. <a href=\"https://mybank-security.com/unlock?uid=12345\">Unlock now</a> within 5 minutes to restore access.</p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: jobs@upwork-collab.com\nsubject: Immediate Upwork Collaboration – $5,000 Payment Upfront\nreturn-path: hr@upwork-collab.com\nbody: Hello, we have a high‑paying project ready for you. Provide your PayPal email and we will transfer $5,000 today. Reply ASAP."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: support@cryptogains.io\nsubject: DOUBLE Your Bitcoin In 24 Hours – Limited Offer!\nreturn-path: alerts@cryptogains.io\nbody: <h1>Earn 200% Return</h1><p>Invest $500 now and watch it grow to $1,500 in a day. <a href=\"https://cryptogains.io/invest\">Start earning</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: lottery@bigwin.com\nsubject: Congratulations! You Won $1,000,000!\nreturn-path: claims@bigwin.com\nbody: You have been selected as the grand prize winner of the Big Win lottery. Provide your bank details to claim the prize within 24 hours."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: support@pharmacy-online.co\nsubject: Order Your Prescription – 70% OFF Today Only!\nreturn-path: sales@pharmacy-online.co\nbody: <p>Get the medication you need at a fraction of the cost. <a href=\"https://pharmacy-online.co/order\">Order now</a> and save 70%.</p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@visa-alerts.net\nsubject: Unauthorized Transaction Detected – Verify Now\nreturn-path: security@visa-alerts.net\nbody: We have detected a possible unauthorized transaction on your Visa card ending 1234. Click https://visa-alerts.net/confirm?code=ABCD1234 to verify."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@taxrefunds.gov\nsubject: Your Tax Refund is Ready – Click to Receive\nreturn-path: refunds@taxrefunds.gov\nbody: <p>We have processed your 2025 tax refund of $3,200. <a href=\"https://taxrefunds.gov/claim\">Claim now</a> before it expires.</p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: support@greenenergy-loans.com\nsubject: 0% Interest Energy Loan – Apply Today!\nreturn-path: loans@greenenergy-loans.com\nbody: Upgrade your home with solar panels with a 0% interest loan. Fill the form here: https://greenenergy-loans.com/apply"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: admin@vpnservice-pro.com\nsubject: Upgrade to Premium VPN – 90% Discount!\nreturn-path: sales@vpnservice-pro.com\nbody: <p>Protect your privacy online. <a href=\"https://vpnservice-pro.com/upgrade\">Upgrade now</a> and save 90%.</p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@apple-support.com\nsubject: Your Apple ID Has Been Disabled\nreturn-path: security@apple-support.com\nbody: Your Apple ID was disabled due to suspicious activity. Verify your account now: https://apple-support.com/verify?id=5678"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@paypal-security.org\nsubject: Immediate Action Required – Account Verification\nreturn-path: alerts@paypal-security.org\nbody: <p>We have noticed unusual activity. Confirm your identity within 5 minutes: <a href=\"https://paypal-security.org/confirm\">Verify now</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: hr@remotejobs.global\nsubject: High Paying Remote Position – $8,000/month\nreturn-path: jobs@remotejobs.global\nbody: Dear candidate, we have a remote senior developer role with $8k/month. Send your bank details to receive the first month salary upfront."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@amazon-verify.com\nsubject: Amazon Account Verification Needed\nreturn-path: alerts@amazon-verify.com\nbody: <p>We need you to verify your Amazon account to avoid suspension. <a href=\"https://amazon-verify.com/verify\">Verify now</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: support@mycrypto.io\nsubject: Urgent: Your Wallet Needs Recovery\nreturn-path: alerts@mycrypto.io\nbody: Your crypto wallet is flagged. Provide your private key to recover your funds: https://mycrypto.io/recover?token=RE4C0V3R"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: alerts@facebook-security.com\nsubject: Suspicious Login Attempt Detected\nreturn-path: security@facebook-security.com\nbody: <p>We noticed a login from an unrecognized device. If this was you, <a href=\"https://facebook-security.com/confirm\">confirm</a> now.</p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: billing@netflixsupport.net\nsubject: Payment Failure – Update Your Billing Info\nreturn-path: alerts@netflixsupport.net\nbody: Your recent payment failed. Update your credit card details to avoid service interruption: https://netflixsupport.net/billing"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: security@linkedin-alerts.com\nsubject: Verify Your LinkedIn Account\nreturn-path: alerts@linkedin-alerts.com\nbody: <p>We need to verify your LinkedIn account due to suspicious activity. <a href=\"https://linkedin-alerts.com/verify\">Verify now</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: support@google-verify.com\nsubject: Google Account Recovery Required\nreturn-path: alerts@google-verify.com\nbody: Your Google account has been temporarily locked. Recover it now: https://google-verify.com/recover?uid=9999"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@ebay-claim.com\nsubject: Claim Your eBay Refund Now\nreturn-path: refunds@ebay-claim.com\nbody: <p>You have an outstanding refund of $550. Claim it immediately: <a href=\"https://ebay-claim.com/claim\">Claim Refund</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@paypalservice.org\nsubject: Your PayPal Account is Restricted\nreturn-path: security@paypalservice.org\nbody: Your PayPal account is restricted due to suspicious activity. Verify your identity here: https://paypalservice.org/verify"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: support@zoomus-security.com\nsubject: Zoom Account Compromised – Action Needed\nreturn-path: alerts@zoomus-security.com\nbody: <p>We detected unusual activity on your Zoom account. <a href=\"https://zoomus-security.com/secure\">Secure your account</a> now.</p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: hr@freelancejobs.io\nsubject: Immediate Payment – $3,200 for Simple Data Entry Task\nreturn-path: jobs@freelancejobs.io\nbody: Complete a short data entry job and receive $3,200 today. Send your bank details to start."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@steam-support.com\nsubject: Steam Account Issue – Verify Ownership\nreturn-path: alerts@steam-support.com\nbody: <p>Your Steam account has been flagged. Verify ownership to restore access: <a href=\"https://steam-support.com/verify\">Verify now</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@github-security.org\nsubject: Suspicious Activity on Your GitHub Account\nreturn-path: security@github-security.org\nbody: We have detected unusual login attempts. Confirm your identity here: https://github-security.org/confirm?token=GH1234"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: admin@mcafee-protect.com\nsubject: Update Your McAfee Antivirus – Critical Patch\nreturn-path: alerts@mcafee-protect.com\nbody: <p>Install the critical security patch now to protect your PC. <a href=\"https://mcafee-protect.com/update\">Download Patch</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: sales@luxurywatch.co\nsubject: Limited Offer – $1,200 Luxury Watch for $299\nreturn-path: offers@luxurywatch.co\nbody: Grab this exclusive deal now before stock runs out! Click https://luxurywatch.co/deal to claim."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: alerts@bankofamerica.com\nsubject: Verify Your Banking Information\nreturn-path: security@bankofamerica.com\nbody: <p>Your account requires verification to avoid suspension. <a href=\"https://bankofamerica.com/verify\">Verify now</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: no-reply@charitydonations.org\nsubject: Donate Now – 100% of Your Money Helps Children\nreturn-path: alerts@charitydonations.org\nbody: Help children in need. Donate $50 and receive a free gift card. Donate here: https://charitydonations.org/donate"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: support@adobe-verify.com\nsubject: Adobe Account Disabled – Reactivate Now\nreturn-path: alerts@adobe-verify.com\nbody: <p>Your Adobe account has been disabled. Restore access by verifying your information: <a href=\"https://adobe-verify.com/reactivate\">Reactivate</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@icloud-security.com\nsubject: iCloud Account Locked – Verify Identity\nreturn-path: security@icloud-security.com\nbody: Your iCloud account is locked due to suspicious activity. Verify your identity here: https://icloud-security.com/verify"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@whatsapp-secure.com\nsubject: WhatsApp Account Recovery Needed\nreturn-path: alerts@whatsapp-secure.com\nbody: <p>We detected an attempt to access your WhatsApp account. <a href=\"https://whatsapp-secure.com/recover\">Recover now</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: hr@upwork-quickpay.com\nsubject: Immediate Payment – $4,500 for Graphic Design\nreturn-path: jobs@upwork-quickpay.com\nbody: Complete a quick graphic design task and receive $4,500 via PayPal. Reply with your PayPal email."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: alerts@paypalalerts.com\nsubject: Unauthorized Transaction Alert – Verify\nreturn-path: security@paypalalerts.com\nbody: <p>A transaction of $2,300 was attempted on your account. If you did not authorize it, click <a href=\"https://paypalalerts.com/verify\">here</a> immediately.</p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: support@norton-secure.com\nsubject: Critical Security Update – Install Now\nreturn-path: alerts@norton-secure.com\nbody: Your Norton antivirus is out of date. Install the critical update now: https://norton-secure.com/update"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: admin@spotify-support.net\nsubject: Account Suspension Notice – Verify Details\nreturn-path: alerts@spotify-support.net\nbody: <p>Your Spotify account may be suspended. Verify your information to continue using the service: <a href=\"https://spotify-support.net/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@bankofworld.com\nsubject: Immediate Action Required – Verify Your Card\nreturn-path: security@bankofworld.com\nbody: We detected suspicious activity on your credit card ending 9876. Verify within 10 minutes: https://bankofworld.com/verify?code=XYZ123"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@amazon-aws-support.com\nsubject: AWS Account Compromised – Verify Identity\nreturn-path: alerts@amazon-aws-support.com\nbody: <p>Your AWS account shows unusual activity. <a href=\"https://amazon-aws-support.com/verify\">Verify now</a> to protect your resources.</p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: sales@digitalmarketing-pro.com\nsubject: Boost Your Business – 300% ROI in 30 Days!\nreturn-path: offers@digitalmarketing-pro.com\nbody: Join our exclusive program and watch your revenue explode. Register now at https://digitalmarketing-pro.com/boost"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: alerts@twitter-security.com\nsubject: Twitter Account Locked – Verify Ownership\nreturn-path: security@twitter-security.com\nbody: <p>Your Twitter account has been locked. Verify ownership to regain access: <a href=\"https://twitter-security.com/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: support@adwords-alerts.com\nsubject: Your Google Ads Account Has Been Disabled\nreturn-path: alerts@adwords-alerts.com\nbody: To reactivate your Google Ads account, please verify your billing information: https://adwords-alerts.com/verify"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@coinbase-security.org\nsubject: Verify Your Coinbase Account Immediately\nreturn-path: alerts@coinbase-security.org\nbody: <p>Unusual activity detected. Verify your account now: <a href=\"https://coinbase-security.org/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@mydollargold.com\nsubject: Gold Investment Offer – 20% Return in 6 Months!\nreturn-path: offers@mydollargold.com\nbody: Secure your future with gold. Invest $1,000 now and earn $200 in six months. Click https://mydollargold.com/invest"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: admin@microsoft-support.net\nsubject: Microsoft Account Alert – Verify Your Identity\nreturn-path: alerts@microsoft-support.net\nbody: <p>Your Microsoft account shows suspicious activity. <a href=\"https://microsoft-support.net/verify\">Verify now</a> to protect it.</p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: offers@luxurycars.co\nsubject: 2025 Luxury Car Lease – Only $199/Month!\nreturn-path: sales@luxurycars.co\nbody: Drive the newest Mercedes for just $199 per month. No credit check required. Apply here: https://luxurycars.co/lease"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: alerts@paypal.com\nsubject: Your PayPal Account Needs Immediate Verification\nreturn-path: security@paypal.com\nbody: <p>We have detected unauthorized activity. Verify your account now: <a href=\"https://paypal.com/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: no-reply@taxmyrefund.com\nsubject: Your Tax Refund is Ready – Claim Now\nreturn-path: alerts@taxmyrefund.com\nbody: You've received a tax refund of $2,950. Claim it within 24 hours: https://taxmyrefund.com/claim"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: support@airbnb-security.com\nsubject: Airbnb Account Verification Required\nreturn-path: alerts@airbnb-security.com\nbody: <p>We need to verify your identity due to recent activity. <a href=\"https://airbnb-security.com/verify\">Verify now</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: hr@freelance-ops.com\nsubject: Guaranteed $5,000 Payment for Data Entry Work\nreturn-path: jobs@freelance-ops.com\nbody: Complete a short data entry task and receive $5,000 via Western Union. Reply with your details."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: admin@virtualbanking.com\nsubject: Virtual Banking Account Suspended – Action Required\nreturn-path: alerts@virtualbanking.com\nbody: <p>Your virtual bank account is suspended. Verify your identity to restore access: <a href=\"https://virtualbanking.com/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@fakemailservice.com\nsubject: Confirm Your Email Address – Immediate Action Needed\nreturn-path: verification@fakemailservice.com\nbody: Please click the link to confirm your email address: https://fakemailservice.com/confirm?code=ABC123"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: support@adobecs.com\nsubject: Adobe Creative Cloud Subscription Issue – Verify\nreturn-path: alerts@adobecs.com\nbody: <p>We could not verify your subscription. <a href=\"https://adobecs.com/verify\">Verify now</a> to avoid service interruption.</p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: security@apple-id.com\nsubject: Apple ID Locked – Restore Access Now\nreturn-path: alerts@apple-id.com\nbody: Your Apple ID has been locked. Verify your account to restore access: https://apple-id.com/restore?token=XYZ789"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@linkedin-alert.com\nsubject: LinkedIn Account Verification Required\nreturn-path: alerts@linkedin-alert.com\nbody: <p>Unusual login detected. Verify your LinkedIn account now: <a href=\"https://linkedin-alert.com/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: offers@luxurypurse.com\nsubject: Designer Handbag for $79 – Limited Time Offer!\nreturn-path: sales@luxurypurse.com\nbody: Get an authentic designer handbag for only $79. Offer ends tonight. Order here: https://luxurypurse.com/deal"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: alerts@paypal.com\nsubject: Verify Your PayPal Account to Remove Limitations\nreturn-path: security@paypal.com\nbody: <p>Your PayPal account has limitations. Verify your identity to lift them: <a href=\"https://paypal.com/limitations\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: hr@remoteworkglobal.com\nsubject: $6,000 Remote Data Analyst Position – Immediate Hire\nreturn-path: jobs@remoteworkglobal.com\nbody: We need a data analyst for a short‑term project. Receive $6,000 after one week. Send your bank details to start."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: admin@spotify-security.net\nsubject: Spotify Account Compromised – Verify Identity\nreturn-path: alerts@spotify-security.net\nbody: <p>We've detected suspicious activity on your Spotify account. <a href=\"https://spotify-security.net/verify\">Verify now</a> to secure it.</p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@bankcenter.com\nsubject: Important: Verify Your Account to Prevent Closure\nreturn-path: security@bankcenter.com\nbody: Your account will be closed unless you verify your identity within 24 hours: https://bankcenter.com/verify"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@facebook-secure.com\nsubject: Facebook Account Security Alert – Verify\nreturn-path: alerts@facebook-secure.com\nbody: <p>We noticed a login from an unknown device. Verify your account: <a href=\"https://facebook-secure.com/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: support@adwordprotect.com\nsubject: Your Google Ads Account Is Suspended – Action Required\nreturn-path: alerts@adwordprotect.com\nbody: Reactivate your Google Ads account by verifying payment details: https://adwordprotect.com/reactivate"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: alerts@instagram-security.org\nsubject: Instagram Account Locked – Verify Identity\nreturn-path: security@instagram-security.org\nbody: <p>Your Instagram account has been locked. Verify your identity now: <a href=\"https://instagram-security.org/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: sales@crypto-trade.io\nsubject: Earn $1,000 Daily with Our New Bot!\nreturn-path: offers@crypto-trade.io\nbody: Our automated trading bot guarantees $1,000 profit daily. Invest $500 to start. Click https://crypto-trade.io/bot"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: admin@netflix-upgrade.com\nsubject: Immediate Upgrade Required – Continue Watching\nreturn-path: alerts@netflix-upgrade.com\nbody: <p>Your Netflix account will be downgraded. Upgrade now to avoid interruption: <a href=\"https://netflix-upgrade.com/upgrade\">Upgrade</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@prepaidcard.com\nsubject: Your Prepaid Card Balance is Low – Add Funds Now\nreturn-path: security@prepaidcard.com\nbody: Your balance is below $5. Add funds instantly: https://prepaidcard.com/topup"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@paypal-security.org\nsubject: Verify Your PayPal Account to Remove Holds\nreturn-path: alerts@paypal-security.org\nbody: <p>There is a hold on your account. Verify your identity to release funds: <a href=\"https://paypal-security.org/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: hr@upwork-fastpay.com\nsubject: $2,500 Upwork Project – Payment Upfront\nreturn-path: jobs@upwork-fastpay.com\nbody: Complete a short writing task and receive $2,500 via PayPal today. Send your PayPal email to receive the funds."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: alerts@zoomsecurity.org\nsubject: Zoom Account Alert – Verify Identity\nreturn-path: security@zoomsecurity.org\nbody: <p>Unusual login detected. Verify your Zoom account now: <a href=\"https://zoomsecurity.org/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: sales@smartwatchdeal.com\nsubject: Smartwatch Sale – 80% Off Today Only!\nreturn-path: offers@smartwatchdeal.com\nbody: Grab the latest smartwatch for just $49.99. Limited stock! Order here: https://smartwatchdeal.com/offer"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@ebay-secure.com\nsubject: eBay Account Suspended – Verify Now\nreturn-path: alerts@ebay-secure.com\nbody: <p>Your eBay account has been suspended due to suspicious activity. Verify your identity: <a href=\"https://ebay-secure.com/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@creditcardalert.com\nsubject: Credit Card Fraud Alert – Immediate Confirmation Required\nreturn-path: security@creditcardalert.com\nbody: We detected a fraudulent charge of $1,200. Confirm if this is you: https://creditcardalert.com/confirm"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: admin@instagram-verify.com\nsubject: Instagram Account Verification Needed\nreturn-path: alerts@instagram-verify.com\nbody: <p>Your Instagram account requires verification due to unusual activity. <a href=\"https://instagram-verify.com/verify\">Verify now</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: hr@virtualassistants.io\nsubject: $4,000 Remote Virtual Assistant Position – Immediate Hire\nreturn-path: jobs@virtualassistants.io\nbody: We need a virtual assistant for a short‑term project. Receive $4,000 after completion. Send your PayPal email to start."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: alerts@banksecure.com\nsubject: Verify Your Account to Stop Fraudulent Transactions\nreturn-path: security@banksecure.com\nbody: <p>Multiple unauthorized attempts detected. Verify your account now: <a href=\"https://banksecure.com/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: offers@luxurydates.com\nsubject: Exclusive Offer – Luxury Watch for $199\nreturn-path: sales@luxurydates.com\nbody: Get a genuine luxury watch for only $199. Limited quantities. Order now: https://luxurydates.com/watch"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@paypal-security.com\nsubject: Immediate PayPal Account Verification Required\nreturn-path: alerts@paypal-security.com\nbody: <p>Your PayPal account has been flagged. Verify your identity to avoid suspension: <a href=\"https://paypal-security.com/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: security@appleid.com\nsubject: Your Apple ID Has Been Compromised – Verify\nreturn-path: alerts@appleid.com\nbody: We detected a possible breach of your Apple ID. Verify now: https://appleid.com/secure?token=ABC123"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: alerts@facebook.com\nsubject: Facebook Security Alert – Verify Identity\nreturn-path: security@facebook.com\nbody: <p>Unusual login activity detected. Verify your account: <a href=\"https://facebook.com/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: hr@upworkquickpay.com\nsubject: Fast $3,000 Payment for Simple Graphic Design\nreturn-path: jobs@upworkquickpay.com\nbody: Complete a logo design and receive $3,000 via PayPal today. Reply with your PayPal email."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: admin@netflix-secure.com\nsubject: Verify Your Netflix Account – Payment Issue\nreturn-path: alerts@netflix-secure.com\nbody: <p>Your payment method has been declined. Verify your account to continue streaming: <a href=\"https://netflix-secure.com/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@bankofworld.com\nsubject: Suspicious Login Attempt – Verify Now\nreturn-path: security@bankofworld.com\nbody: We detected a login from an unknown location. Verify your identity: https://bankofworld.com/verify?code=XYZ987"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@twitter-security.com\nsubject: Twitter Account Suspended – Verify Identity\nreturn-path: alerts@twitter-security.com\nbody: <p>Your Twitter account has been suspended. Verify your identity to restore access: <a href=\"https://twitter-security.com/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: offers@cryptolender.io\nsubject: Get a 150% Return on Your Crypto Investment\nreturn-path: deals@cryptolender.io\nbody: Deposit $1,000 Bitcoin and receive $2,500 in 30 days. Secure your profit now: https://cryptolender.io/invest"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: admin@spotify.com\nsubject: Account Issue – Verify Your Subscription\nreturn-path: alerts@spotify.com\nbody: <p>Your Spotify subscription has been paused due to a verification issue. <a href=\"https://spotify.com/verify\">Verify now</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@onlinebank.com\nsubject: Urgent: Verify Your Online Banking Login\nreturn-path: security@onlinebank.com\nbody: We detected a login from an unrecognized device. Verify within 10 minutes: https://onlinebank.com/verify"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@adobevpn.com\nsubject: Adobe VPN Access Issue – Verify Identity\nreturn-path: alerts@adobevpn.com\nbody: <p>Your Adobe VPN account was flagged. Verify your identity now: <a href=\"https://adobevpn.com/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: hr@freelancejobs.org\nsubject: Immediate $7,500 Payment for Simple Video Editing\nreturn-path: jobs@freelancejobs.org\nbody: Complete a 2‑minute video edit and receive $7,500 via bank transfer. Send your bank details to start."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: alerts@linkedin.com\nsubject: LinkedIn Account Locked – Immediate Verification\nreturn-path: security@linkedin.com\nbody: <p>Your LinkedIn account has been locked due to suspicious activity. Verify now: <a href=\"https://linkedin.com/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: offers@luxuryjewels.com\nsubject: 50% Off Gold Necklace – Today Only!\nreturn-path: sales@luxuryjewels.com\nbody: Get a 14‑karat gold necklace for only $299. Offer expires at midnight. Order now: https://luxuryjewels.com/necklace"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@paypal.com\nsubject: Verify Your PayPal Account to Remove Limitations\nreturn-path: alerts@paypal.com\nbody: <p>Your PayPal account has been limited. Verify your identity to lift the restrictions: <a href=\"https://paypal.com/limitations\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@banksecure.com\nsubject: Confirm New Phone Number for Your Account\nreturn-path: security@banksecure.com\nbody: We received a request to add a new phone number. Confirm using code 847362 (expires in 5 minutes)."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: admin@apple-support.org\nsubject: Apple Support Verification Needed\nreturn-path: alerts@apple-support.org\nbody: <p>Your Apple Support request requires verification. <a href=\"https://apple-support.org/verify\">Verify now</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: hr@upworkfastpay.com\nsubject: $8,000 Project – Immediate Payment upon Completion\nreturn-path: jobs@upworkfastpay.com\nbody: Finish a short market research report and receive $8,000 via PayPal. Provide your PayPal email to begin."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: alerts@zoom.com\nsubject: Zoom Account Security Check – Verify Now\nreturn-path: security@zoom.com\nbody: <p>We detected unusual activity on your Zoom account. Verify your identity: <a href=\"https://zoom.com/verify\">Verify</a></p>"
+}
+]
+``````json
+[
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@secure-payments.com\nsubject: Urgent: Verify Your Account to Avoid Suspension\nreturn-path: verification@secure-payments.com\nbody: Dear Customer, we noticed unusual activity on your account. Please verify your identity within the next 10 minutes to avoid suspension. Click here: https://secure-payments.com/verify?token=Z9X8Y7"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@mybank-security.com\nsubject: Your Account Has Been Locked – Action Required\nreturn-path: security@mybank-security.com\nbody: <p>Dear user, due to multiple failed login attempts your account is locked. <a href=\"https://mybank-security.com/unlock?uid=12345\">Unlock now</a> within 5 minutes to restore access.</p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: jobs@upwork-collab.com\nsubject: Immediate Upwork Collaboration – $5,000 Payment Upfront\nreturn-path: hr@upwork-collab.com\nbody: Hello, we have a high‑paying project ready for you. Provide your PayPal email and we will transfer $5,000 today. Reply ASAP."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: support@cryptogains.io\nsubject: DOUBLE Your Bitcoin In 24 Hours – Limited Offer!\nreturn-path: alerts@cryptogains.io\nbody: <h1>Earn 200% Return</h1><p>Invest $500 now and watch it grow to $1,500 in a day. <a href=\"https://cryptogains.io/invest\">Start earning</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: lottery@bigwin.com\nsubject: Congratulations! You Won $1,000,000!\nreturn-path: claims@bigwin.com\nbody: You have been selected as the grand prize winner of the Big Win lottery. Provide your bank details to claim the prize within 24 hours."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: support@pharmacy-online.co\nsubject: Order Your Prescription – 70% OFF Today Only!\nreturn-path: sales@pharmacy-online.co\nbody: <p>Get the medication you need at a fraction of the cost. <a href=\"https://pharmacy-online.co/order\">Order now</a> and save 70%.</p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@visa-alerts.net\nsubject: Unauthorized Transaction Detected – Verify Now\nreturn-path: security@visa-alerts.net\nbody: We have detected a possible unauthorized transaction on your Visa card ending 1234. Click https://visa-alerts.net/confirm?code=ABCD1234 to verify."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@taxrefunds.gov\nsubject: Your Tax Refund is Ready – Click to Receive\nreturn-path: refunds@taxrefunds.gov\nbody: <p>We have processed your 2025 tax refund of $3,200. <a href=\"https://taxrefunds.gov/claim\">Claim now</a> before it expires.</p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: support@greenenergy-loans.com\nsubject: 0% Interest Energy Loan – Apply Today!\nreturn-path: loans@greenenergy-loans.com\nbody: Upgrade your home with solar panels with a 0% interest loan. Fill the form here: https://greenenergy-loans.com/apply"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: admin@vpnservice-pro.com\nsubject: Upgrade to Premium VPN – 90% Discount!\nreturn-path: sales@vpnservice-pro.com\nbody: <p>Protect your privacy online. <a href=\"https://vpnservice-pro.com/upgrade\">Upgrade now</a> and save 90%.</p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@apple-support.com\nsubject: Your Apple ID Has Been Disabled\nreturn-path: security@apple-support.com\nbody: Your Apple ID was disabled due to suspicious activity. Verify your account now: https://apple-support.com/verify?id=5678"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@paypal-security.org\nsubject: Immediate Action Required – Account Verification\nreturn-path: alerts@paypal-security.org\nbody: <p>We have noticed unusual activity. Confirm your identity within 5 minutes: <a href=\"https://paypal-security.org/confirm\">Verify now</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: hr@remotejobs.global\nsubject: High Paying Remote Position – $8,000/month\nreturn-path: jobs@remotejobs.global\nbody: Dear candidate, we have a remote senior developer role with $8k/month. Send your bank details to receive the first month salary upfront."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@amazon-verify.com\nsubject: Amazon Account Verification Needed\nreturn-path: alerts@amazon-verify.com\nbody: <p>We need you to verify your Amazon account to avoid suspension. <a href=\"https://amazon-verify.com/verify\">Verify now</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: support@mycrypto.io\nsubject: Urgent: Your Wallet Needs Recovery\nreturn-path: alerts@mycrypto.io\nbody: Your crypto wallet is flagged. Provide your private key to recover your funds: https://mycrypto.io/recover?token=RE4C0V3R"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: alerts@facebook-security.com\nsubject: Suspicious Login Attempt Detected\nreturn-path: security@facebook-security.com\nbody: <p>We noticed a login from an unrecognized device. If this was you, <a href=\"https://facebook-security.com/confirm\">confirm</a> now.</p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: billing@netflixsupport.net\nsubject: Payment Failure – Update Your Billing Info\nreturn-path: alerts@netflixsupport.net\nbody: Your recent payment failed. Update your credit card details to avoid service interruption: https://netflixsupport.net/billing"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: security@linkedin-alerts.com\nsubject: Verify Your LinkedIn Account\nreturn-path: alerts@linkedin-alerts.com\nbody: <p>We need to verify your LinkedIn account due to suspicious activity. <a href=\"https://linkedin-alerts.com/verify\">Verify now</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: support@google-verify.com\nsubject: Google Account Recovery Required\nreturn-path: alerts@google-verify.com\nbody: Your Google account has been temporarily locked. Recover it now: https://google-verify.com/recover?uid=9999"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@ebay-claim.com\nsubject: Claim Your eBay Refund Now\nreturn-path: refunds@ebay-claim.com\nbody: <p>You have an outstanding refund of $550. Claim it immediately: <a href=\"https://ebay-claim.com/claim\">Claim Refund</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@paypalservice.org\nsubject: Your PayPal Account is Restricted\nreturn-path: security@paypalservice.org\nbody: Your PayPal account is restricted due to suspicious activity. Verify your identity here: https://paypalservice.org/verify"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: support@zoomus-security.com\nsubject: Zoom Account Compromised – Action Needed\nreturn-path: alerts@zoomus-security.com\nbody: <p>We detected unusual activity on your Zoom account. <a href=\"https://zoomus-security.com/secure\">Secure your account</a> now.</p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: hr@freelancejobs.io\nsubject: Immediate Payment – $3,200 for Simple Data Entry Task\nreturn-path: jobs@freelancejobs.io\nbody: Complete a short data entry job and receive $3,200 today. Send your bank details to start."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@steam-support.com\nsubject: Steam Account Issue – Verify Ownership\nreturn-path: alerts@steam-support.com\nbody: <p>Your Steam account has been flagged. Verify ownership to restore access: <a href=\"https://steam-support.com/verify\">Verify now</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@github-security.org\nsubject: Suspicious Activity on Your GitHub Account\nreturn-path: security@github-security.org\nbody: We have detected unusual login attempts. Confirm your identity here: https://github-security.org/confirm?token=GH1234"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: admin@mcafee-protect.com\nsubject: Update Your McAfee Antivirus – Critical Patch\nreturn-path: alerts@mcafee-protect.com\nbody: <p>Install the critical security patch now to protect your PC. <a href=\"https://mcafee-protect.com/update\">Download Patch</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: sales@luxurywatch.co\nsubject: Limited Offer – $1,200 Luxury Watch for $299\nreturn-path: offers@luxurywatch.co\nbody: Grab this exclusive deal now before stock runs out! Click https://luxurywatch.co/deal to claim."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: alerts@bankofamerica.com\nsubject: Verify Your Banking Information\nreturn-path: security@bankofamerica.com\nbody: <p>Your account requires verification to avoid suspension. <a href=\"https://bankofamerica.com/verify\">Verify now</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: no-reply@charitydonations.org\nsubject: Donate Now – 100% of Your Money Helps Children\nreturn-path: alerts@charitydonations.org\nbody: Help children in need. Donate $50 and receive a free gift card. Donate here: https://charitydonations.org/donate"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: support@adobe-verify.com\nsubject: Adobe Account Disabled – Reactivate Now\nreturn-path: alerts@adobe-verify.com\nbody: <p>Your Adobe account has been disabled. Restore access by verifying your information: <a href=\"https://adobe-verify.com/reactivate\">Reactivate</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@icloud-security.com\nsubject: iCloud Account Locked – Verify Identity\nreturn-path: security@icloud-security.com\nbody: Your iCloud account is locked due to suspicious activity. Verify your identity here: https://icloud-security.com/verify"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@whatsapp-secure.com\nsubject: WhatsApp Account Recovery Needed\nreturn-path: alerts@whatsapp-secure.com\nbody: <p>We detected an attempt to access your WhatsApp account. <a href=\"https://whatsapp-secure.com/recover\">Recover now</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: hr@upwork-quickpay.com\nsubject: Immediate Payment – $4,500 for Graphic Design\nreturn-path: jobs@upwork-quickpay.com\nbody: Complete a quick graphic design task and receive $4,500 via PayPal. Reply with your PayPal email."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: alerts@paypalalerts.com\nsubject: Unauthorized Transaction Alert – Verify\nreturn-path: security@paypalalerts.com\nbody: <p>A transaction of $2,300 was attempted on your account. If you did not authorize it, click <a href=\"https://paypalalerts.com/verify\">here</a> immediately.</p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: support@norton-secure.com\nsubject: Critical Security Update – Install Now\nreturn-path: alerts@norton-secure.com\nbody: Your Norton antivirus is out of date. Install the critical update now: https://norton-secure.com/update"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: admin@spotify-support.net\nsubject: Account Suspension Notice – Verify Details\nreturn-path: alerts@spotify-support.net\nbody: <p>Your Spotify account may be suspended. Verify your information to continue using the service: <a href=\"https://spotify-support.net/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@bankofworld.com\nsubject: Immediate Action Required – Verify Your Card\nreturn-path: security@bankofworld.com\nbody: We detected suspicious activity on your credit card ending 9876. Verify within 10 minutes: https://bankofworld.com/verify?code=XYZ123"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@amazon-aws-support.com\nsubject: AWS Account Compromised – Verify Identity\nreturn-path: alerts@amazon-aws-support.com\nbody: <p>Your AWS account shows unusual activity. <a href=\"https://amazon-aws-support.com/verify\">Verify now</a> to protect your resources.</p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: sales@digitalmarketing-pro.com\nsubject: Boost Your Business – 300% ROI in 30 Days!\nreturn-path: offers@digitalmarketing-pro.com\nbody: Join our exclusive program and watch your revenue explode. Register now at https://digitalmarketing-pro.com/boost"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: alerts@twitter-security.com\nsubject: Twitter Account Locked – Verify Ownership\nreturn-path: security@twitter-security.com\nbody: <p>Your Twitter account has been locked. Verify ownership to regain access: <a href=\"https://twitter-security.com/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: support@adwords-alerts.com\nsubject: Your Google Ads Account Has Been Disabled\nreturn-path: alerts@adwords-alerts.com\nbody: To reactivate your Google Ads account, please verify your billing information: https://adwords-alerts.com/verify"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@coinbase-security.org\nsubject: Verify Your Coinbase Account Immediately\nreturn-path: alerts@coinbase-security.org\nbody: <p>Unusual activity detected. Verify your account now: <a href=\"https://coinbase-security.org/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@mydollargold.com\nsubject: Gold Investment Offer – 20% Return in 6 Months!\nreturn-path: offers@mydollargold.com\nbody: Secure your future with gold. Invest $1,000 now and earn $200 in six months. Click https://mydollargold.com/invest"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: admin@microsoft-support.net\nsubject: Microsoft Account Alert – Verify Your Identity\nreturn-path: alerts@microsoft-support.net\nbody: <p>Your Microsoft account shows suspicious activity. <a href=\"https://microsoft-support.net/verify\">Verify now</a> to protect it.</p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: offers@luxurycars.co\nsubject: 2025 Luxury Car Lease – Only $199/Month!\nreturn-path: sales@luxurycars.co\nbody: Drive the newest Mercedes for just $199 per month. No credit check required. Apply here: https://luxurycars.co/lease"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: alerts@paypal.com\nsubject: Your PayPal Account Needs Immediate Verification\nreturn-path: security@paypal.com\nbody: <p>We have detected unauthorized activity. Verify your account now: <a href=\"https://paypal.com/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: no-reply@taxmyrefund.com\nsubject: Your Tax Refund is Ready – Claim Now\nreturn-path: alerts@taxmyrefund.com\nbody: You've received a tax refund of $2,950. Claim it within 24 hours: https://taxmyrefund.com/claim"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: support@airbnb-security.com\nsubject: Airbnb Account Verification Required\nreturn-path: alerts@airbnb-security.com\nbody: <p>We need to verify your identity due to recent activity. <a href=\"https://airbnb-security.com/verify\">Verify now</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: hr@freelance-ops.com\nsubject: Guaranteed $5,000 Payment for Data Entry Work\nreturn-path: jobs@freelance-ops.com\nbody: Complete a short data entry task and receive $5,000 via Western Union. Reply with your details."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: admin@virtualbanking.com\nsubject: Virtual Banking Account Suspended – Action Required\nreturn-path: alerts@virtualbanking.com\nbody: <p>Your virtual bank account is suspended. Verify your identity to restore access: <a href=\"https://virtualbanking.com/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@fakemailservice.com\nsubject: Confirm Your Email Address – Immediate Action Needed\nreturn-path: verification@fakemailservice.com\nbody: Please click the link to confirm your email address: https://fakemailservice.com/confirm?code=ABC123"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: support@adobecs.com\nsubject: Adobe Creative Cloud Subscription Issue – Verify\nreturn-path: alerts@adobecs.com\nbody: <p>We could not verify your subscription. <a href=\"https://adobecs.com/verify\">Verify now</a> to avoid service interruption.</p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: security@apple-id.com\nsubject: Apple ID Locked – Restore Access Now\nreturn-path: alerts@apple-id.com\nbody: Your Apple ID has been locked. Verify your account to restore access: https://apple-id.com/restore?token=XYZ789"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@linkedin-alert.com\nsubject: LinkedIn Account Verification Required\nreturn-path: alerts@linkedin-alert.com\nbody: <p>Unusual login detected. Verify your LinkedIn account now: <a href=\"https://linkedin-alert.com/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: offers@luxurypurse.com\nsubject: Designer Handbag for $79 – Limited Time Offer!\nreturn-path: sales@luxurypurse.com\nbody: Get an authentic designer handbag for only $79. Offer ends tonight. Order here: https://luxurypurse.com/deal"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: alerts@paypal.com\nsubject: Verify Your PayPal Account to Remove Limitations\nreturn-path: security@paypal.com\nbody: <p>Your PayPal account has limitations. Verify your identity to lift them: <a href=\"https://paypal.com/limitations\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: hr@remoteworkglobal.com\nsubject: $6,000 Remote Data Analyst Position – Immediate Hire\nreturn-path: jobs@remoteworkglobal.com\nbody: We need a data analyst for a short‑term project. Receive $6,000 after one week. Send your bank details to start."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: admin@spotify-security.net\nsubject: Spotify Account Compromised – Verify Identity\nreturn-path: alerts@spotify-security.net\nbody: <p>We've detected suspicious activity on your Spotify account. <a href=\"https://spotify-security.net/verify\">Verify now</a> to secure it.</p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@bankcenter.com\nsubject: Important: Verify Your Account to Prevent Closure\nreturn-path: security@bankcenter.com\nbody: Your account will be closed unless you verify your identity within 24 hours: https://bankcenter.com/verify"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@facebook-secure.com\nsubject: Facebook Account Security Alert – Verify\nreturn-path: alerts@facebook-secure.com\nbody: <p>We noticed a login from an unknown device. Verify your account: <a href=\"https://facebook-secure.com/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: support@adwordprotect.com\nsubject: Your Google Ads Account Is Suspended – Action Required\nreturn-path: alerts@adwordprotect.com\nbody: Reactivate your Google Ads account by verifying payment details: https://adwordprotect.com/reactivate"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: alerts@instagram-security.org\nsubject: Instagram Account Locked – Verify Identity\nreturn-path: security@instagram-security.org\nbody: <p>Your Instagram account has been locked. Verify your identity now: <a href=\"https://instagram-security.org/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: sales@crypto-trade.io\nsubject: Earn $1,000 Daily with Our New Bot!\nreturn-path: offers@crypto-trade.io\nbody: Our automated trading bot guarantees $1,000 profit daily. Invest $500 to start. Click https://crypto-trade.io/bot"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: admin@netflix-upgrade.com\nsubject: Immediate Upgrade Required – Continue Watching\nreturn-path: alerts@netflix-upgrade.com\nbody: <p>Your Netflix account will be downgraded. Upgrade now to avoid interruption: <a href=\"https://netflix-upgrade.com/upgrade\">Upgrade</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@prepaidcard.com\nsubject: Your Prepaid Card Balance is Low – Add Funds Now\nreturn-path: security@prepaidcard.com\nbody: Your balance is below $5. Add funds instantly: https://prepaidcard.com/topup"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@paypal-security.org\nsubject: Verify Your PayPal Account to Remove Holds\nreturn-path: alerts@paypal-security.org\nbody: <p>There is a hold on your account. Verify your identity to release funds: <a href=\"https://paypal-security.org/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: hr@upwork-fastpay.com\nsubject: $2,500 Upwork Project – Payment Upfront\nreturn-path: jobs@upwork-fastpay.com\nbody: Complete a short writing task and receive $2,500 via PayPal today. Send your PayPal email to receive the funds."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: alerts@zoomsecurity.org\nsubject: Zoom Account Alert – Verify Identity\nreturn-path: security@zoomsecurity.org\nbody: <p>Unusual login detected. Verify your Zoom account now: <a href=\"https://zoomsecurity.org/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: sales@smartwatchdeal.com\nsubject: Smartwatch Sale – 80% Off Today Only!\nreturn-path: offers@smartwatchdeal.com\nbody: Grab the latest smartwatch for just $49.99. Limited stock! Order here: https://smartwatchdeal.com/offer"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@ebay-secure.com\nsubject: eBay Account Suspended – Verify Now\nreturn-path: alerts@ebay-secure.com\nbody: <p>Your eBay account has been suspended due to suspicious activity. Verify your identity: <a href=\"https://ebay-secure.com/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@creditcardalert.com\nsubject: Credit Card Fraud Alert – Immediate Confirmation Required\nreturn-path: security@creditcardalert.com\nbody: We detected a fraudulent charge of $1,200. Confirm if this is you: https://creditcardalert.com/confirm"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: admin@instagram-verify.com\nsubject: Instagram Account Verification Needed\nreturn-path: alerts@instagram-verify.com\nbody: <p>Your Instagram account requires verification due to unusual activity. <a href=\"https://instagram-verify.com/verify\">Verify now</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: hr@virtualassistants.io\nsubject: $4,000 Remote Virtual Assistant Position – Immediate Hire\nreturn-path: jobs@virtualassistants.io\nbody: We need a virtual assistant for a short‑term project. Receive $4,000 after completion. Send your PayPal email to start."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: alerts@banksecure.com\nsubject: Verify Your Account to Stop Fraudulent Transactions\nreturn-path: security@banksecure.com\nbody: <p>Multiple unauthorized attempts detected. Verify your account now: <a href=\"https://banksecure.com/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: offers@luxurydates.com\nsubject: Exclusive Offer – Luxury Watch for $199\nreturn-path: sales@luxurydates.com\nbody: Get a genuine luxury watch for only $199. Limited quantities. Order now: https://luxurydates.com/watch"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@paypal-security.com\nsubject: Immediate PayPal Account Verification Required\nreturn-path: alerts@paypal-security.com\nbody: <p>Your PayPal account has been flagged. Verify your identity to avoid suspension: <a href=\"https://paypal-security.com/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: security@appleid.com\nsubject: Your Apple ID Has Been Compromised – Verify\nreturn-path: alerts@appleid.com\nbody: We detected a possible breach of your Apple ID. Verify now: https://appleid.com/secure?token=ABC123"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: alerts@facebook.com\nsubject: Facebook Security Alert – Verify Identity\nreturn-path: security@facebook.com\nbody: <p>Unusual login activity detected. Verify your account: <a href=\"https://facebook.com/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: hr@upworkquickpay.com\nsubject: Fast $3,000 Payment for Simple Graphic Design\nreturn-path: jobs@upworkquickpay.com\nbody: Complete a logo design and receive $3,000 via PayPal today. Reply with your PayPal email."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: admin@netflix-secure.com\nsubject: Verify Your Netflix Account – Payment Issue\nreturn-path: alerts@netflix-secure.com\nbody: <p>Your payment method has been declined. Verify your account to continue streaming: <a href=\"https://netflix-secure.com/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@bankofworld.com\nsubject: Suspicious Login Attempt – Verify Now\nreturn-path: security@bankofworld.com\nbody: We detected a login from an unknown location. Verify your identity: https://bankofworld.com/verify?code=XYZ987"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@twitter-security.com\nsubject: Twitter Account Suspended – Verify Identity\nreturn-path: alerts@twitter-security.com\nbody: <p>Your Twitter account has been suspended. Verify your identity to restore access: <a href=\"https://twitter-security.com/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: offers@cryptolender.io\nsubject: Get a 150% Return on Your Crypto Investment\nreturn-path: deals@cryptolender.io\nbody: Deposit $1,000 Bitcoin and receive $2,500 in 30 days. Secure your profit now: https://cryptolender.io/invest"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: admin@spotify.com\nsubject: Account Issue – Verify Your Subscription\nreturn-path: alerts@spotify.com\nbody: <p>Your Spotify subscription has been paused due to a verification issue. <a href=\"https://spotify.com/verify\">Verify now</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@onlinebank.com\nsubject: Urgent: Verify Your Online Banking Login\nreturn-path: security@onlinebank.com\nbody: We detected a login from an unrecognized device. Verify within 10 minutes: https://onlinebank.com/verify"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@adobevpn.com\nsubject: Adobe VPN Access Issue – Verify Identity\nreturn-path: alerts@adobevpn.com\nbody: <p>Your Adobe VPN account was flagged. Verify your identity now: <a href=\"https://adobevpn.com/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: hr@freelancejobs.org\nsubject: Immediate $7,500 Payment for Simple Video Editing\nreturn-path: jobs@freelancejobs.org\nbody: Complete a 2‑minute video edit and receive $7,500 via bank transfer. Send your bank details to start."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: alerts@linkedin.com\nsubject: LinkedIn Account Locked – Immediate Verification\nreturn-path: security@linkedin.com\nbody: <p>Your LinkedIn account has been locked due to suspicious activity. Verify now: <a href=\"https://linkedin.com/verify\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: offers@luxuryjewels.com\nsubject: 50% Off Gold Necklace – Today Only!\nreturn-path: sales@luxuryjewels.com\nbody: Get a 14‑karat gold necklace for only $299. Offer expires at midnight. Order now: https://luxuryjewels.com/necklace"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: no-reply@paypal.com\nsubject: Verify Your PayPal Account to Remove Limitations\nreturn-path: alerts@paypal.com\nbody: <p>Your PayPal account has been limited. Verify your identity to lift the restrictions: <a href=\"https://paypal.com/limitations\">Verify</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: alerts@banksecure.com\nsubject: Confirm New Phone Number for Your Account\nreturn-path: security@banksecure.com\nbody: We received a request to add a new phone number. Confirm using code 847362 (expires in 5 minutes)."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: admin@apple-support.org\nsubject: Apple Support Verification Needed\nreturn-path: alerts@apple-support.org\nbody: <p>Your Apple Support request requires verification. <a href=\"https://apple-support.org/verify\">Verify now</a></p>"
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/plain\nfrom: hr@upworkfastpay.com\nsubject: $8,000 Project – Immediate Payment upon Completion\nreturn-path: jobs@upworkfastpay.com\nbody: Finish a short market research report and receive $8,000 via PayPal. Provide your PayPal email to begin."
+},
+{
+"category": "spam",
+"subcategory": null,
+"content": "content-type: text/html\nfrom: alerts@zoom.com\nsubject: Zoom Account Security Check – Verify Now\nreturn-path: security@zoom.com\nbody: <p>We detected unusual activity on your Zoom account. Verify your identity: <a href=\"https://zoom.com/verify\">Verify</a></p>"
+}
+]

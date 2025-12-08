@@ -1,0 +1,24 @@
+meta {
+  name: Generate Embedding
+  type: http
+  seq: 1
+}
+
+post {
+  url: http://localhost:8080/embedding/generate
+  body: json
+  auth: inherit
+}
+
+body:json {
+  {
+    "category": "email",
+    "subcategory": "promotional",
+    "content": "Return-Path: <cfbounces+ndrdrop@algorithmjunkie.com>\nContent-Type: multipart/alternative; boundary=fda9783941aad58cf19b2509690155c39a8a832f7a3a225500ab36b01864\nFrom: Curiosity Stream <no-reply@hello.curiositystream.com>\nSubject: =?UTF-8?B?8J+qqPCfkInwn6es?= Tiny Fossils. Giant Dragons. One Lost\r\n Human Species.\nBody: Watch the spellbinding story of the “Hobbits” with our limited 3-for-1 offer. 📲 ***************************************************************** Three Months of Streaming for Just 99¢ 🌍 ***************************************************************** ***************************************************************** Three Months of Streaming for Just 99¢ 🌍 ***************************************************************** Breakthrough | Land of the Hobbits Land of the Hobbits ********************************* Breakthrough: Land of the Hobbits ********************************* On a remote island once ruled by giant dragons, archaeologists uncover the tiny remains of ancient humans and spark fierce scientific debate. Watch the latest Breakthrough today . Trending now on Curiosity Stream: * Asteroid Impact — Could these potential planet killers also reveal the origins of life itself? * The Pianist — A harrowing struggle for survival during the Nazi occupation of Warsaw in World War II. * De-Extinction — Is genetic engineering letting humans wield the power of evolution? Restart your subscription for 99¢ ********************************* Breakthrough: Land of the Hobbits ********************************* On a remote island once ruled by giant dragons, archaeologists uncover the tiny remains of ancient humans and spark fierce scientific debate. Watch the latest Breakthrough today . Trending now on Curiosity Stream: * Asteroid Impact — Could these potential planet killers also reveal the origins of life itself? * The Pianist — A harrowing struggle for survival during the Nazi occupation of Warsaw in World War II. * De-Extinction — Is genetic engineering letting humans wield the power of evolution? Restart your subscription for 99¢ Asteroid Impact The Pianist De-Extinction Instagram TikTok YouTube Twitter Facebook Instagram TikTok YouTube Twitter Facebook Get Curiosity Stream on Google Play Download Curiosity Stream on the Apple App Store Not all titles are available to watch worldwide. 8484 Georgia Avenue, Suite 700, Silver Spring, MD 20910 About | Gift Cards | Terms | Unsubscribe | Help Center © 2025 Curiosity Stream, Inc. All rights reserved. 8484 Georgia Avenue, Suite 700, Silver Spring, MD 20910 About | Gift Cards | Terms | Unsubscribe | Help Center © 2025 Curiosity Stream, Inc. All rights reserved."
+  }
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}

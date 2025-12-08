@@ -1,0 +1,957 @@
+[
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@techguru.com\nsubject: 30% Off All Smart Home Devices – Limited Time!\nreturn-path: offers@techguru.com\nbody: <h1>Upgrade Your Home</h1><p>Save 30% on all smart plugs, cameras, and thermostats. Use code SMART30 at checkout.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@fitlife.com\nsubject: New Seasonal Workout Plans Available Now\nreturn-path: updates@fitlife.com\nbody: Hello,\nCheck out our fresh summer workout routines designed to boost your stamina and tone. Get a free 7‑day trial today!"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: promo@luxurywatches.co\nsubject: Exclusive Offer – Buy One, Get One 50% Off\nreturn-path: sales@luxurywatches.co\nbody: <p>For a limited time, purchase any premium watch and receive a second one at half price. Use code BOGO50.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: events@citytheatre.org\nsubject: Early‑Bird Tickets: Broadway Hits This Weekend\nreturn-path: tickets@citytheatre.org\nbody: Grab your seats now and save 20% on all shows. Offer expires Friday at midnight."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: marketing@travelnow.com\nsubject: Fly to Bali for $799 – All‑Inclusive Deal!\nreturn-path: offers@travelnow.com\nbody: <h2>Dream Vacation</h2><p>Round‑trip airfare + 5‑night resort stay for just $799. Book within 48 hours to lock the price.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@foodiebox.com\nsubject: Your Weekly Gourmet Snack Box Arrives Tomorrow\nreturn-path: shipping@foodiebox.com\nbody: Hello foodie,\nYour curated snack selection is on its way. Enjoy artisanal crackers, organic dark chocolate, and more."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@greenenergy.org\nsubject: Switch to Solar – Get $500 Credit\nreturn-path: sales@greenenergy.org\nbody: <p>Make the move to clean energy and receive a $500 installation credit. Limited slots available.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: updates@bookclub.net\nsubject: New Releases: Thriller Bundle – 40% Off\nreturn-path: promos@bookclub.net\nbody: Dive into the latest suspense novels. Purchase the bundle now and save big."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: sales@cozyhomefurnishings.com\nsubject: Spring Sale – Up to 70% Off Furniture\nreturn-path: discounts@cozyhomefurnishings.com\nbody: <h3>Refresh Your Living Space</h3><p>From sofas to coffee tables, get up to 70% off selected items. Shop today.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@streamplus.com\nsubject: New Series Drop – Watch Now!\nreturn-path: notifications@streamplus.com\nbody: Your favorite genres just got richer. Start streaming the latest episodes of \"City Lights\" instantly."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@petcareplus.org\nsubject: 25% Off All Pet Supplements\nreturn-path: sales@petcareplus.org\nbody: <p>Keep your furry friends healthy with our top‑rated vitamins and joint support formulas. Use code PET25.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@fashionforward.com\nsubject: Summer Capsule Wardrobe – 3‑Piece Set\nreturn-path: promotions@fashionforward.com\nbody: Introducing a curated 3‑piece set perfect for sunny days. Get it now for $99 (regular $149)."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@techgear.io\nsubject: Free Shipping on All Laptops This Week\nreturn-path: sales@techgear.io\nbody: <p>Shop the latest ultrabooks and enjoy complimentary express delivery. No minimum order.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@artgallery.com\nsubject: VIP Preview – Modern Art Exhibition\nreturn-path: events@artgallery.com\nbody: You're invited to an exclusive viewing of our new collection. RSVP by Thursday to secure your spot."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: info@homechefkits.com\nsubject: 3‑Course Dinner Kit – 20% Off Today\nreturn-path: offers@homechefkits.com\nbody: <h2>Cook Like a Pro</h2><p>All ingredients pre‑measured. Use code CHEF20 at checkout.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: promotions@gaminghub.net\nsubject: Pre‑Order the New RPG – Bonus Skin Included\nreturn-path: sales@gaminghub.net\nbody: Secure your copy now and receive an exclusive in‑game skin. Limited to the first 5,000 orders."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@luxuryskins.com\nsubject: Anti‑Aging Serum – Buy One Get One Free\nreturn-path: offers@luxuryskins.com\nbody: <p>Rejuvenate your skin with our clinically proven serum. BOGO offer ends Sunday.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@eco‑products.org\nsubject: Zero‑Waste Starter Kit – 15% Discount\nreturn-path: sales@eco‑products.org\nbody: Switch to sustainable living with reusable bags, bamboo utensils, and more. Use code ZERO15."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: promotions@autoelite.com\nsubject: Service Special – Free Oil Change with Tire Rotation\nreturn-path: service@autoelite.com\nbody: <p>Maintain your vehicle's performance. Book an appointment before June 30.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@languagelearning.io\nsubject: 50% Off Premium Language Courses – Today Only!\nreturn-path: sales@languagelearning.io\nbody: Unlock fluency faster with interactive lessons. Promo code LANG50 expires tonight."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@luxuryspa.com\nsubject: Couples Retreat – 30% Off Packages\nreturn-path: bookings@luxuryspa.com\nbody: <h3>Relax Together</h3><p>Enjoy massages, facials, and private suites at a special rate. Reserve now.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@craftsupplyco.com\nsubject: Spring Craft Kit – Free Glue Sticks!\nreturn-path: promos@craftsupplyco.com\nbody: Create beautiful DIY projects with our all‑in‑one kit. Free glue sticks included for first 500 orders."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@smartwatchworld.com\nsubject: New Release – UltraFit X2 Smartwatch\nreturn-path: sales@smartwatchworld.com\nbody: <p>Track health, receive notifications, and more. Pre‑order now and get a free strap.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlinecourses.edu\nsubject: Certification Bundle – Save $200\nreturn-path: enroll@onlinecourses.edu\nbody: Earn three industry‑recognized certificates for a flat $799. Offer valid through end of month."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: info@outdoorgear.net\nsubject: 40% Off All Camping Tents – Limited Stock\nreturn-path: sales@outdoorgear.net\nbody: <h2>Adventure Awaits</h2><p>Take advantage of our biggest discount of the season.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: promotions@beautybox.com\nsubject: Mystery Beauty Box – 2 for 1 Today!\nreturn-path: offers@beautybox.com\nbody: Surprise yourself with curated products. Use code MYSTERY2 at checkout."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@techsupportpros.com\nsubject: Annual Protection Plan – 20% Off\nreturn-path: sales@techsupportpros.com\nbody: <p>Keep your devices safe with 24/7 support. Discount applies to all plans through December.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@digitalartstudio.com\nsubject: Free Brush Pack – Download Now\nreturn-path: updates@digitalartstudio.com\nbody: Enhance your creations with our exclusive brush set. No purchase required."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@homegymgear.com\nsubject: Treadmill Sale – Up to $500 Off\nreturn-path: sales@homegymgear.com\nbody: <p>Bring the gym home. Limited quantities available.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@musicstream.co\nsubject: New Playlist: Summer Hits – Curated Just for You\nreturn-path: newsletters@musicstream.co\nbody: Press play and enjoy fresh tracks from top artists. Updated weekly."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: promotions@luxuryluggage.com\nsubject: Travel in Style – 30% Off Premium Suitcases\nreturn-path: sales@luxuryluggage.com\nbody: <h3>Jet‑Set Ready</h3><p>Durable, lightweight, and elegant. Use code LUG30.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@organictea.com\nsubject: Seasonal Blend – Buy One Get One Half Price\nreturn-path: offers@organictea.com\nbody: Warm up with our new hibiscus‑mint blend. Promo code TEA50."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@smartsecurity.io\nsubject: Home Alarm System – Free Installation\nreturn-path: sales@smartsecurity.io\nbody: <p>Secure your home with our AI‑powered sensors. Offer ends soon.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@digitalmagazine.com\nsubject: Subscribe Today – First Month Free\nreturn-path: marketing@digitalmagazine.com\nbody: Access premium articles, newsletters, and exclusive interviews at no cost for 30 days."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@designerfurniture.com\nsubject: Limited Edition Sofa – 15% Off Launch Price\nreturn-path: sales@designerfurniture.com\nbody: <h2>Modern Comfort</h2><p>Order now to enjoy the special introductory discount.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: promotions@kidslearning.org\nsubject: Summer Coding Camp – Early Bird Savings\nreturn-path: enroll@kidslearning.org\nbody: Register by May 31 and receive $100 off tuition. Ages 8‑14."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@luxurywines.net\nsubject: Vintage Red – 2 Bottles for $45\nreturn-path: sales@luxurywines.net\nbody: <p>Celebrate with a limited‑edition Cabernet. Offer limited to 200 orders.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@citygym.com\nsubject: Member Referral Bonus – $25 Credit\nreturn-path: rewards@citygym.com\nbody: Invite a friend, and when they sign up you both earn $25 toward your next month."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@beautybliss.com\nsubject: Spring Skincare Set – Free Sample Pack\nreturn-path: sales@beautybliss.com\nbody: <h3>Glow Up</h3><p>Purchase the set and receive a complimentary sample of our new serum.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@techconference2025.com\nsubject: Early Registration – Save $150 on Passes\nreturn-path: info@techconference2025.com\nbody: Secure your spot at the premier tech event. Discount valid for registrations before July 15."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@homefurnishings.com\nsubject: Kitchen Remodel Sale – Up to 60% Off Cabinets\nreturn-path: sales@homefurnishings.com\nbody: <p>Transform your cooking space with premium cabinetry at unbeatable prices.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@gourmetcooking.org\nsubject: Free E‑Book: 25 Quick Dinner Recipes\nreturn-path: updates@gourmetcooking.org\nbody: Download your copy now and start cooking delicious meals in under 30 minutes."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: promotions@petstore.com\nsubject: Summer Sale – 20% Off All Dog Apparel\nreturn-path: offers@petstore.com\nbody: <h2>Keep Your Pup Cool</h2><p>Stylish, breathable clothing for all breeds. Use code DOGSUMMER.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@photographygear.net\nsubject: Bundle Deal – Camera + Lens 30% Off\nreturn-path: sales@photographygear.net\nbody: Upgrade your kit with a professional DSLR and prime lens. Limited time offer."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@wellnesshub.io\nsubject: Virtual Yoga Class – First Session Free\nreturn-path: info@wellnesshub.io\nbody: <p>Join our certified instructors live from home. No equipment needed.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@gamingnews.com\nsubject: New Release Alert – \"Chrono Rift\" Pre‑Order Bonus\nreturn-path: promotions@gamingnews.com\nbody: Pre‑order now and receive an exclusive in‑game weapon skin."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@luxurysleep.com\nsubject: Mattress Clearance – Up to $300 Off\nreturn-path: sales@luxurysleep.com\nbody: <h3>Sleep Better Tonight</h3><p>Experience premium comfort at a fraction of the price.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlineworkshop.io\nsubject: Free Webinar: Mastering Data Visualization\nreturn-path: events@onlineworkshop.io\nbody: Register now for a live session with industry experts. Seats are limited."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@artisanalchocolate.com\nsubject: Valentine’s Box – 2 for $40\nreturn-path: sales@artisanalchocolate.com\nbody: <p>Hand‑crafted truffles in exotic flavors. Perfect gift for loved ones.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@mindfulapp.com\nsubject: Upgrade to Premium – 50% Off First Year\nreturn-path: sales@mindfulapp.com\nbody: Access guided meditations, sleep stories, and progress tracking. Use code MIND50."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@smartkitchen.io\nsubject: Air Fryer Sale – Save $80 Today\nreturn-path: offers@smartkitchen.io\nbody: <h2>Healthy Cooking Made Easy</h2><p>Cook crispy meals with less oil. Limited stock.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@fitnessgear.com\nsubject: New Running Shoes – 15% Off Launch Price\nreturn-path: sales@fitnessgear.com\nbody: Experience lightweight cushioning. Promo code RUN15 valid until Sep 30."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: promotions@luxuryjewelry.net\nsubject: Anniversary Gift – 20% Off Diamond Necklaces\nreturn-path: sales@luxuryjewelry.net\nbody: <p>Celebrate love with timeless sparkle. Use code LOVE20.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@travelblogger.com\nsubject: 7‑Day Italy Itinerary – Free PDF\nreturn-path: updates@travelblogger.com\nbody: Download your detailed guide to Rome, Florence, and Venice. No charge."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@homeofficehub.com\nsubject: Ergonomic Chair Bundle – Save $150\nreturn-path: sales@homeofficehub.com\nbody: <h3>Work Comfortably</h3><p>Includes chair, footrest, and lumbar pillow.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@languagehub.io\nsubject: Free Trial – Learn Spanish in 30 Days\nreturn-path: info@languagehub.io\nbody: Access interactive lessons, quizzes, and conversation practice. No credit card required."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@organicbeauty.co\nsubject: Spring Cleanse Kit – 30% Off\nreturn-path: offers@organicbeauty.co\nbody: <p>Pamper your skin with natural ingredients. Limited time discount.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@gadgetreview.com\nsubject: Top 10 Gadgets of 2025 – Free e‑Guide\nreturn-path: updates@gadgetreview.com\nbody: Get insider insights on the hottest tech releases before anyone else."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: promotions@luxurybikes.com\nsubject: Electric Bike Sale – Up to $400 Off\nreturn-path: sales@luxurybikes.com\nbody: <h2>Ride the Future</h2><p>Powerful motor, long-range battery, sleek design.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@digitalmarketingpro.com\nsubject: Free Audit – Boost Your Ad ROI\nreturn-path: sales@digitalmarketingpro.com\nbody: Let our experts analyze your campaigns and provide a custom optimization plan."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@homebrewclub.com\nsubject: Starter Kit – 25% Off for New Members\nreturn-path: sales@homebrewclub.com\nbody: <p>Everything you need to brew craft beer at home. Offer ends Friday.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@greenhome.org\nsubject: Solar Panel Installation – Free Quote\nreturn-path: info@greenhome.org\nbody: Reduce your electricity bills. Schedule a no‑obligation assessment today."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@petgrooming.com\nsubject: Grooming Package – Buy One Get One 50% Off\nreturn-path: sales@petgrooming.com\nbody: <h3>Pamper Your Pet</h3><p>Full service grooming for dogs and cats.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@virtualreality.co\nsubject: VR Headset Bundle – Save $150\nreturn-path: offers@virtualreality.co\nbody: Includes headset, controllers, and two premium games. Limited stock."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: promotions@luxuryhome.com\nsubject: Designer Lighting – 20% Off Select Items\nreturn-path: sales@luxuryhome.com\nbody: <p>Elevate your space with modern chandeliers and pendant lights. Use code LIGHT20.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@wellnesscoach.org\nsubject: 14‑Day Detox Plan – Free Download\nreturn-path: info@wellnesscoach.org\nbody: Reset your body with our guided meals and workouts. No cost, just sign up."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@techaccessories.com\nsubject: Wireless Earbuds – 2 for $49\nreturn-path: sales@techaccessories.com\nbody: <h2>Crystal‑Clear Sound</h2><p>Enjoy a special bundle price this weekend only.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlinefashion.com\nsubject: Flash Sale – Up to 80% Off Dresses\nreturn-path: sales@onlinefashion.com\nbody: Refresh your wardrobe with designer dresses at unbeatable discounts. Sale ends tonight."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@petnutrition.com\nsubject: Premium Dog Food – 30% Off First Order\nreturn-path: offers@petnutrition.com\nbody: <p>Balanced nutrition for all life stages. Use code DOG30 at checkout.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@codingbootcamp.io\nsubject: Scholarship Available – Apply Now\nreturn-path: admissions@codingbootcamp.io\nbody: Qualified candidates can receive a 50% tuition waiver for our full‑stack program."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: promotions@luxurybaths.com\nsubject: Spa‑Ready Towels – Buy 2 Get 1 Free\nreturn-path: sales@luxurybaths.com\nbody: <h3>Indulge Daily</h3><p>Ultra‑soft, high‑absorbency towels for your bathroom.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@virtualclassroom.edu\nsubject: Free Access – One‑Month Trial of Online Courses\nreturn-path: info@virtualclassroom.edu\nbody: Explore hundreds of courses across tech, business, and arts. No credit card required."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@outdooradventures.com\nsubject: Guided Hiking Tours – 25% Off Group Bookings\nreturn-path: sales@outdooradventures.com\nbody: <p>Explore scenic trails with experienced guides. Discount applies to groups of 5 or more.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@beautyinsider.net\nsubject: Free Sample – Vitamin C Serum\nreturn-path: promotions@beautyinsider.net\nbody: Claim your complimentary vial of our bestselling serum. Limited to first 1,000 requests."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@smartlighting.com\nsubject: Smart Bulb Pack – 3 for $20\nreturn-path: offers@smartlighting.com\nbody: <h2>Light Up Your Home</h2><p>Control brightness and color via app. Easy installation.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@brewcoffee.com\nsubject: Cold Brew Kit – 20% Off This Week\nreturn-path: sales@brewcoffee.com\nbody: Make café‑quality cold brew at home. Promo code COLD20 expires Sunday."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: promotions@luxurytravel.co\nsubject: Caribbean Cruise – 2‑Night Free Upgrade\nreturn-path: offers@luxurytravel.co\nbody: <p>Book your cabin and enjoy an extended stay at no extra cost. Offer limited.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@homeimprovement.org\nsubject: Free Estimate – Kitchen remodel\nreturn-path: info@homeimprovement.org\nbody: Get a no‑obligation quote from our licensed contractors. Schedule online today."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@fashionaccessories.com\nsubject: Designer Handbags – 15% Off All Styles\nreturn-path: sales@fashionaccessories.com\nbody: <h3>Elevate Your Look</h3><p>Classic designs, premium leather. Use code BAG15.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@wellnesssubscription.com\nsubject: Monthly Box – Buy 2 Get 1 Free\nreturn-path: offers@wellnesssubscription.com\nbody: Curated health supplements, snacks, and self‑care items delivered to your door."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@musicstore.net\nsubject: Vinyl Record Sale – Up to 70% Off Classics\nreturn-path: sales@musicstore.net\nbody: <p>Rediscover timeless albums at rock‑bottom prices. Limited quantities.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@digitalartschool.com\nsubject: Free Masterclass – Advanced Photoshop Techniques\nreturn-path: info@digitalartschool.com\nbody: Register now for a live session with industry veterans. Seats fill fast."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@luxurysportswear.com\nsubject: Performance Shorts – 30% Off New Arrivals\nreturn-path: sales@luxurysportswear.com\nbody: <h2>Move Freely</h2><p>Moisture‑wicking fabric, sleek design. Use code MOVE30.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlinebanking.com\nsubject: Refer a Friend – Earn $25 Credit\nreturn-path: rewards@onlinebanking.com\nbody: Invite friends to open an account and receive $25 when they complete their first transaction."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: promotions@smartgarden.io\nsubject: Indoor Herb Kit – 20% Off Launch Offer\nreturn-path: sales@smartgarden.io\nbody: <p>Grow basil, mint, and rosemary year‑round. Easy LED system included.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@artisanbread.com\nsubject: Free Recipe Ebook – 30 Bread Recipes\nreturn-path: info@artisanbread.com\nbody: Download our guide to baking artisanal loaves at home. Perfect for beginners and pros."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@highendaudio.com\nsubject: Speakers Bundle – Save $200\nreturn-path: offers@highendaudio.com\nbody: <h3>Ultimate Sound</h3><p>2‑way bookshelf speakers with premium amplifiers.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@languagelearning.org\nsubject: Limited‑Time Free Access – Learn French\nreturn-path: info@languagelearning.org\nbody: Join our community and start speaking French in 30 days. No payment required."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@organicfarmbox.com\nsubject: Fresh Produce Box – 15% Off First Delivery\nreturn-path: sales@organicfarmbox.com\nbody: <p>Seasonal fruits and vegetables sourced locally. Use code FARM15.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@techinsights.io\nsubject: Free Whitepaper – AI Trends 2025\nreturn-path: updates@techinsights.io\nbody: Download our comprehensive analysis of upcoming AI developments and market forecasts."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: promotions@luxurybottles.com\nsubject: Premium Whiskey – 2 for $120\nreturn-path: sales@luxurybottles.com\nbody: <h2>Celebrate with Excellence</h2><p>Rich, smooth, aged 12 years. Limited stock.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@yogaclasses.com\nsubject: Summer Yoga Retreat – Early Bird Discount\nreturn-path: info@yogaclasses.com\nbody: Secure your spot for a weekend of meditation, workshops, and healthy meals. Save $150 if you book by June 15."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@smartkids.com\nsubject: Educational Tablet – 25% Off for Students\nreturn-path: sales@smartkids.com\nbody: <p>Kid‑friendly interface, parental controls, pre‑loaded learning apps. Use code STUDENT25.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@homeorganics.org\nsubject: DIY Cleaning Kit – Free Sample Included\nreturn-path: offers@homeorganics.org\nbody: Switch to natural cleaners. Order now and receive a trial size of our citrus spray."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@luxurylamps.com\nsubject: Table Lamp Sale – Up to 50% Off\nreturn-path: sales@luxurylamps.com\nbody: <h3>Illuminate in Style</h3><p>Modern designs crafted from premium materials.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlinefitness.io\nsubject: 30‑Day Challenge – Free Access\nreturn-path: info@onlinefitness.io\nbody: Join our community challenge, track progress, and win prizes. No cost to start."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: promotions@smartwatchco.com\nsubject: New Series – GalaxyFit Pro – Pre‑Order Bonus\nreturn-path: sales@smartwatchco.com\nbody: <p>Get a complementary charging dock when you pre‑order now.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@craftbrewery.com\nsubject: Limited‑Edition IPA – 20% Off First Order\nreturn-path: sales@craftbrewery.com\nbody: Hand‑crafted small‑batch IPA with tropical hops. Use code IPA20."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@luxurybedsheets.com\nsubject: 4‑Piece Sheet Set – Buy 2 Get 1 Free\nreturn-path: offers@luxurybedsheets.com\nbody: <h2>Sleep in Luxury</h2><p>Egyptian cotton, 800 thread count. Offer valid while supplies last.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlinelegal.com\nsubject: Free Consultation – Business Formation\nreturn-path: info@onlinelegal.com\nbody: Start your LLC or corporation with a complimentary 30‑minute consult. No obligations."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: promotions@petinsurance.com\nsubject: Protect Your Pet – 15% Off First Year\nreturn-path: sales@petinsurance.com\nbody: <p>Comprehensive coverage for accidents, illnesses, and routine care. Use code PETPRO.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@digitalphotography.org\nsubject: Free Lightroom Preset Pack\nreturn-path: updates@digitalphotography.org\nbody: Download a collection of 20 presets to enhance your photos instantly. No charge."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@smartfridge.com\nsubject: Smart Fridge – $200 Off Promotion\nreturn-path: sales@smartfridge.com\nbody: <h3>Keep Food Fresh Longer</h3><p>Wi‑Fi enabled, inventory tracking, and energy‑efficient. Use code FRIDGE200.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlineartgallery.com\nsubject: Limited Edition Print – 25% Off\nreturn-path: sales@onlineartgallery.com\nbody: Own a signed limited‑edition print from emerging contemporary artists. Promo code ART25."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@luxuryspa.org\nsubject: Monthly Membership – 2 Months Free\nreturn-path: offers@luxuryspa.org\nbody: <p>Enjoy unlimited spa services with a complimentary two‑month extension when you sign up today.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@techgadgets.net\nsubject: Free e‑Guide – Top 10 Productivity Apps 2025\nreturn-path: info@techgadgets.net\nbody: Download the guide and boost your workflow with the latest tools."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: promotions@luxurycandles.com\nsubject: Scented Candle Set – Buy 3 Get 1 Free\nreturn-path: sales@luxurycandles.com\nbody: <h2>Create Ambiance</h2><p>Hand‑poured soy wax, refined fragrances.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlinecookingclass.com\nsubject: Free Live Demo – Artisan Pasta Making\nreturn-path: events@onlinecookingclass.com\nbody: Join chef Marco for a step‑by‑step tutorial. Reserve your spot now."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@smartbike.co\nsubject: Electric Bike – 30% Off Summer Sale\nreturn-path: sales@smartbike.co\nbody: <p>Lightweight frame, 50 km range, integrated LCD. Use code EBIKE30.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@digitalmarketinghub.com\nsubject: Free Checklist – Optimize Your SEO in 7 Days\nreturn-path: info@digitalmarketinghub.com\nbody: Download the actionable checklist and start ranking higher today."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@luxurywatch.com\nsubject: Limited Time – 20% Off Classic Chronograph\nreturn-path: sales@luxurywatch.com\nbody: <h3>Timeless Elegance</h3><p>Swiss movement, leather strap. Use code WATCH20.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlinefitnesscoach.com\nsubject: Personalized Workout Plan – Free Trial\nreturn-path: info@onlinefitnesscoach.com\nbody: Get a custom 4‑week program based on your goals. No credit card required."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: promotions@organicgroceries.com\nsubject: Monthly Box – 25% Off First Shipment\nreturn-path: offers@organicgroceries.com\nbody: <p>Fresh, organic produce delivered weekly. Use code ORG25.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@smartfinance.io\nsubject: Free Ebook – Investing for Beginners\nreturn-path: info@smartfinance.io\nbody: Learn the basics of stock market investing with our concise guide. Download now."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@luxurybikes.com\nsubject: Road Bike – 15% Off New Models\nreturn-path: sales@luxurybikes.com\nbody: <h2>Speed Meets Style</h2><p>Carbon frame, aerodynamic design. Use code ROAD15.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlineartclass.com\nsubject: Free Sketching Tutorial – Download Now\nreturn-path: info@onlineartclass.com\nbody: Improve your drawing skills with a step‑by‑step PDF guide. No cost."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@homegym.com\nsubject: Adjustable Dumbbells – 40% Off Bundle\nreturn-path: sales@homegym.com\nbody: <p>Space‑saving, weight‑adjustable set. Perfect for full‑body workouts. Offer ends Friday.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@digitalfoodie.com\nsubject: Free Recipe Card – 5 Gourmet Appetizers\nreturn-path: updates@digitalfoodie.com\nbody: Download tasty appetizer ideas perfect for your next party."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: promotions@luxuryshoes.com\nsubject: Designer Sneakers – 20% Off This Week\nreturn-path: sales@luxuryshoes.com\nbody: <h3>Step Up Your Game</h3><p>Premium leather, limited edition colors. Use code SNEAK20.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlinelanguage.org\nsubject: Join Our Community – Free Spanish Conversation Group\nreturn-path: info@onlinelanguage.org\nbody: Practice speaking with native speakers every Thursday night. No fee."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@smarthome.io\nsubject: Home Security Bundle – Save $250\nreturn-path: sales@smarthome.io\nbody: <p>Camera kit, motion sensors, and 24/7 monitoring. Use code SECURE250.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@wellnessblog.com\nsubject: Free Guided Meditation – 10‑Minute Calm\nreturn-path: updates@wellnessblog.com\nbody: Click the link to access a downloadable audio session for instant relaxation."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@luxuryhome.com\nsubject: Marble Dining Table – Up to 35% Off\nreturn-path: sales@luxuryhome.com\nbody: <h2>Make a Statement</h2><p>Elegant design, premium finish. Limited stock available.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlinecodingbootcamp.com\nsubject: Scholarship Opportunity – Apply for 50% Tuition Waiver\nreturn-path: admissions@onlinecodingbootcamp.com\nbody: Eligible applicants can receive half off full‑stack development program. Apply by Aug 1."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: promotions@premiumwine.com\nsubject: Wine Club – First Month Free\nreturn-path: offers@premiumwine.com\nbody: <p>Curated selections delivered to your door. Cancel anytime.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@digitalillustration.org\nsubject: Free Brush Pack for Procreate\nreturn-path: info@digitalillustration.org\nbody: Download a collection of 50 custom brushes to enhance your digital art workflow."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@smartwatchpro.com\nsubject: New Series – PulseX – 10% Off Pre‑Order\nreturn-path: sales@smartwatchpro.com\nbody: <h3>Stay Connected</h3><p>Advanced health sensors, sleek design. Use code PULSE10.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlinefitnessgear.com\nsubject: Resistance Band Set – 30% Off Today\nreturn-path: sales@onlinefitnessgear.com\nbody: Versatile bands for strength training, yoga, and rehab. Use code BAND30."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@luxurybedding.com\nsubject: Premium Pillow Set – Buy 2 Get 1 Free\nreturn-path: offers@luxurybedding.com\nbody: <p>Memory foam, hypoallergenic, and temperature regulating. Limited offer.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@eco‑travel.org\nsubject: Sustainable Travel Guide – Free PDF\nreturn-path: info@eco‑travel.org\nbody: Discover eco‑friendly destinations and tips for reducing your carbon footprint while exploring."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: promotions@luxurybags.com\nsubject: Leather Backpack – 20% Off This Weekend\nreturn-path: sales@luxurybags.com\nbody: <h2>Carry in Style</h2><p>Durable full‑grain leather, multiple compartments. Use code BAG20.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlinecookingclub.com\nsubject: Free Webinar – Mastering Sourdough Bread\nreturn-path: events@onlinecookingclub.com\nbody: Register for a live demonstration and Q&A with artisan baker Lisa. No charge."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@smartlighting.co\nsubject: Smart Light Strip – 50% Off Deal\nreturn-path: sales@smartlighting.co\nbody: <p>RGB lighting, voice control, and easy installation. Use code STRIP50.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@digitalphotography.net\nsubject: Free Lightroom Preset Pack – 10 Styles\nreturn-path: updates@digitalphotography.net\nbody: Enhance your photos with professionally crafted presets. Download instantly."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@luxuryluggage.com\nsubject: Carry‑On Suitcase – 30% Off New Collection\nreturn-path: sales@luxuryluggage.com\nbody: <h3>Travel Light</h3><p>Hard‑shell, TSA‑approved, sleek design. Use code LUG30.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlinelanguageacademy.com\nsubject: Free Grammar Workshop – English Essentials\nreturn-path: info@onlinelanguageacademy.com\nbody: Join our 2‑hour live session to sharpen your writing skills. Seats limited."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: promotions@smartkitchen.io\nsubject: Multi‑Cooker – 25% Off Launch Offer\nreturn-path: sales@smartkitchen.io\nbody: <p>Instant pot, slow cooker, rice maker all in one. Use code COOK25.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@wellnessretreat.com\nsubject: Early‑Bird Discount – Mountain Yoga Retreat\nreturn-path: info@wellnessretreat.com\nbody: Reserve your spot for a weekend of yoga, meditation, and nature hikes. Save $200 if you book before June 1."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@luxurywatchco.com\nsubject: Limited Edition – Rose Gold Chronometer – 15% Off\nreturn-path: sales@luxurywatchco.com\nbody: <h2>Make a Statement</h2><p>Elegant rose gold case, Swiss precision. Use code ROSEGOLD15.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlineartmarket.com\nsubject: Free Shipping on All Orders Over $50\nreturn-path: info@onlineartmarket.com\nbody: Browse our curated collection of original artworks and enjoy complimentary delivery."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@smartfitness.io\nsubject: Virtual Personal Trainer – 30% Off First 3 Months\nreturn-path: sales@smartfitness.io\nbody: <p>AI‑driven workout plans tailored to your goals. Use code TRAIN30.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@digitalmarketinginsights.com\nsubject: Free Checklist – Social Media Audit 2025\nreturn-path: info@digitalmarketinginsights.com\nbody: Download the step‑by‑step checklist to evaluate and improve your social presence."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: promotions@luxuryshades.com\nsubject: Window Shades – 40% Off Custom Sets\nreturn-path: sales@luxuryshades.com\nbody: <h3>Control Light & Privacy</h3><p>Motorized, blackout, and energy‑saving options.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlinegaminghub.com\nsubject: Free In‑Game Currency – 500 Coins\nreturn-path: offers@onlinegaminghub.com\nbody: Redeem the code COIN500 in the app to boost your progress."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@smartgarden.io\nsubject: Hydroponic Kit – 20% Off Starter Pack\nreturn-path: sales@smartgarden.io\nbody: <p>Grow herbs and veggies indoors year‑round. Use code HYDRO20.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@wellnessgear.com\nsubject: Free Sample – Herbal Sleep Spray\nreturn-path: info@wellnessgear.com\nbody: Improve sleep quality with our all‑natural spray. Request a trial size at no cost."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@luxurylamps.co\nsubject: Table Lamp – Buy 1 Get 1 50% Off\nreturn-path: sales@luxurylamps.co\nbody: <h2>Elegant Illumination</h2><p>Modern designs crafted from premium materials.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlinelegalservices.com\nsubject: Free Business Name Search\nreturn-path: info@onlinelegalservices.com\nbody: Ensure your new company name is available and trademark‑clear. Quick, no‑cost search tool."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: promotions@smartbike.co\nsubject: Mountain Bike – 25% Off New Model\nreturn-path: sales@smartbike.co\nbody: <p>Durable frame, 21‑speed, hydraulic brakes. Use code MTB25.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@digitalfinance.org\nsubject: Free Webinar – Cryptocurrency Basics\nreturn-path: info@digitalfinance.org\nbody: Join our expert panel to learn about blockchain, wallets, and safe investing."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@luxurybaths.co\nsubject: Bath Towel Set – 3‑Piece, 30% Off\nreturn-path: sales@luxurybaths.co\nbody: <h3>Softness Redefined</h3><p>100% Egyptian cotton, ultra‑absorbent.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlinecookingacademy.com\nsubject: Free Recipe Ebook – 20 Vegan Desserts\nreturn-path: info@onlinecookingacademy.com\nbody: Download delicious plant‑based dessert ideas, complete with photos and nutrition facts."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@smartwatchpro.com\nsubject: Fitness Tracker – 15% Off Pre‑Order\nreturn-path: sales@smartwatchpro.com\nbody: <p>Heart‑rate monitor, sleep analysis, and long battery life. Use code FIT15.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@wellnessjournal.com\nsubject: Free Guided Journaling Prompt Pack\nreturn-path: updates@wellnessjournal.com\nbody: Boost mindfulness and self‑reflection with 30 printable prompts."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: promotions@luxurycandles.co\nsubject: Scented Candle – Buy 2 Get 1 Free\nreturn-path: sales@luxurycandles.co\nbody: <h2>Atmosphere Upgrade</h2><p>Hand‑poured soy, long‑lasting fragrance.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlinefitnessapp.com\nsubject: 14‑Day Free Trial – Personal Trainer AI\nreturn-path: info@onlinefitnessapp.com\nbody: Experience customized workout plans, nutrition advice, and progress tracking without paying a cent."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@smarthome.io\nsubject: Voice‑Controlled Thermostat – $100 Off\nreturn-path: sales@smarthome.io\nbody: <p>Adjust temperature via app or voice assistants. Use code THERMO100.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@digitalartspace.com\nsubject: Free Brush Pack – 75 Procreate Brushes\nreturn-path: info@digitalartspace.com\nbody: Download a curated set of brushes for digital painting, lettering, and texture work."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@luxurymattress.com\nsubject: Memory Foam Mattress – 30% Off Today Only\nreturn-path: sales@luxurymattress.com\nbody: <h3>Sleep Better</h3><p>8‑inch, hypoallergenic, 10‑year warranty. Use code SLEEP30.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlinelanguagehub.com\nsubject: Free Accent Reduction Course – 5 Lessons\nreturn-path: info@onlinelanguagehub.com\nbody: Improve pronunciation with short, interactive lessons. No charge."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: promotions@smartfitness.io\nsubject: Home Gym Bundle – Save $400\nreturn-path: sales@smartfitness.io\nbody: <p>Treadmill, multi‑gym, and set of dumbbells. Use code GYM400 for discount.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@wellnesshub.com\nsubject: Free Ebook – 10 Mindful Eating Practices\nreturn-path: info@wellnesshub.com\nbody: Download actionable tips to develop a healthier relationship with food."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@luxuryfurniture.com\nsubject: Sofa Set – 20% Off Living Room Collection\nreturn-path: sales@luxuryfurniture.com\nbody: <h2>Comfort Meets Design</h2><p>High‑density foam, stylish upholstery.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlinecodingbootcamp.org\nsubject: Free Intro Course – JavaScript Basics\nreturn-path: info@onlinecodingbootcamp.org\nbody: Get started with interactive lessons, quizzes, and projects. No payment required."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@smartwatchco.com\nsubject: New Model – ChronoFit – 10% Off Launch\nreturn-path: sales@smartwatchco.com\nbody: <p>Fitness tracking, GPS, and long‑lasting battery. Use code CHRONOFIT10.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@digitalfoodies.com\nsubject: Free PDF – 15 Quick & Healthy Breakfasts\nreturn-path: updates@digitalfoodies.com\nbody: Download nutritious breakfast ideas you can prepare in under 10 minutes."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: promotions@luxurywatchco.com\nsubject: Limited Edition – Black Dial – 15% Off\nreturn-path: sales@luxurywatchco.com\nbody: <h3>Bold & Timeless</h3><p>Swiss automatic movement, sleek black dial. Use code BLACK15.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlineartstudio.com\nsubject: Free 30‑Day Access – Digital Painting Course\nreturn-path: info@onlineartstudio.com\nbody: Learn techniques from professional artists. No credit card required."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@smartkitchen.io\nsubject: Blender – 35% Off Premium Model\nreturn-path: sales@smartkitchen.io\nbody: <p>High‑speed, 10‑speed settings, stainless steel blades. Use code BLEND35.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@wellnessrecipes.com\nsubject: Free Recipe Card – 5 Immune‑Boosting Smoothies\nreturn-path: updates@wellnessrecipes.com\nbody: Blend your way to a stronger immune system with these tasty recipes."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@luxuryspas.com\nsubject: Spa Package – 2 Nights Free with 5‑Night Booking\nreturn-path: sales@luxuryspas.com\nbody: <h2>Relax & Rejuvenate</h2><p>Massages, facials, and access to exclusive amenities.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlinegamingacademy.com\nsubject: Free Trial – Esports Coaching Sessions\nreturn-path: info@onlinegamingacademy.com\nbody: Join a professional coach for 3 live sessions. No payment required."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: promotions@smartbike.co\nsubject: Road Bike – Buy 1 Get 2nd at 50% Off\nreturn-path: sales@smartbike.co\nbody: <p>Lightweight carbon frame, 22‑speed drivetrain. Use code ROAD50.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@digitaltravel.org\nsubject: Free Guide – Top 10 Off‑The‑Beaten‑Path Destinations\nreturn-path: info@digitaltravel.org\nbody: Discover hidden gems around the world with insider tips and itineraries."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@luxuryhome.com\nsubject: Wallpaper Set – 40% Off Designer Patterns\nreturn-path: sales@luxuryhome.com\nbody: <h3>Transform Your Walls</h3><p>High‑quality, washable, and easy to install.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlinecookingclub.org\nsubject: Free Cooking Class – Quick Gourmet Meals\nreturn-path: info@onlinecookingclub.org\nbody: Live session with chef Ana to learn 5‑star recipes in under 30 minutes."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@smartwatchpro.com\nsubject: Premium Smartwatch – 20% Off Pre‑Order\nreturn-path: sales@smartwatchpro.com\nbody: <p>Advanced health metrics, LTE, and sleek design. Use code PREM20.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@wellnesshub.org\nsubject: Free eBook – 7-Day Mindfulness Challenge\nreturn-path: info@wellnesshub.org\nbody: Follow daily guided practices to reduce stress and improve focus."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: promotions@luxurybedding.com\nsubject: King‑Size Sheet Set – 25% Off Today\nreturn-path: sales@luxurybedding.com\nbody: <h2>Sleep in Luxury</h2><p>100% Egyptian cotton, sateen finish.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlinelanguagelearn.com\nsubject: Free Language Exchange – Join Our Community\nreturn-path: info@onlinelanguagelearn.com\nbody: Practice speaking with native speakers via video chat. No cost."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@smartfitness.io\nsubject: Home Workout Kit – 30% Off Bundle\nreturn-path: sales@smartfitness.io\nbody: <p>Resistance bands, kettlebell, and yoga mat. Use code WORK30.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@digitalmarketingpros.com\nsubject: Free Template – High‑Conversion Landing Page\nreturn-path: info@digitalmarketingpros.com\nbody: Download a ready‑to‑use HTML/CSS template designed for maximum conversions."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@luxurycarpet.com\nsubject: Area Rug – 35% Off Selected Designs\nreturn-path: sales@luxurycarpet.com\nbody: <h3>Add Warmth & Style</h3><p>Hand‑woven, stain‑resistant options.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlinefitness.org\nsubject: Free 7‑Day Access – Group Fitness Classes\nreturn-path: info@onlinefitness.org\nbody: Join live yoga, HIIT, and pilates classes. No membership required."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: promotions@smarthome.co\nsubject: Smart Plug Pack – 3 for $25\nreturn-path: sales@smarthome.co\nbody: <p>Control devices remotely via app or voice. Use code PLUG25.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@wellnessworld.com\nsubject: Free Guided Meditation – 15 Minutes to Calm\nreturn-path: info@wellnessworld.com\nbody: Click the link to download an audio session designed to reduce anxiety."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: offers@luxurylighting.com\nsubject: Pendant Light – 20% Off Modern Designs\nreturn-path: sales@luxurylighting.com\nbody: <h2>Elevate Your Space</h2><p>LED, dimmable, energy‑efficient fixtures.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlinecookingclass.org\nsubject: Free Webinar – Vegan Meal Prep\nreturn-path: info@onlinecookingclass.org\nbody: Learn to batch‑cook nutritious plant‑based meals for the week."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: deals@smartwatchco.com\nsubject: New Release – AeroBand – 15% Off Pre‑Order\nreturn-path: sales@smartwatchco.com\nbody: <p>Lightweight fitness band with SpO₂ monitoring. Use code AERO15.</p>"
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: newsletter@digitalwellness.org\nsubject: Free e‑Guide – 10 Stress‑Relief Techniques\nreturn-path: info@digitalwellness.org\nbody: Download practical methods to manage daily stress and improve mental health."
+  },
+  {
+    "category": "promotional",
+    "subcategory": null,
+    "content": "content-type: text/html\nfrom: promotions@luxuryknives.com\nsubject: Chef Knife Set – 25% Off Premium Steel\nreturn-path: sales@luxuryknives.com\nbody: <h3>Precision Cutting</h3><p>Hand‑forged, ergonomic handles.</p>"
+  }
+]

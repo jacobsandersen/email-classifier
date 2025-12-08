@@ -1,0 +1,122 @@
+meta {
+  name: Generate Embedding Many
+  type: http
+  seq: 4
+}
+
+post {
+  url: http://localhost:8080/embedding/generateMany
+  body: json
+  auth: inherit
+}
+
+body:json {
+  [
+    {
+      "category": "promotional",
+      "subcategory": null,
+      "content": "content-type: text/plain\nfrom: deals@shopzone.com\nsubject: Exclusive 50% Off Just for You!\nreturn-path: no-reply@shopzone.com\nbody: Don't miss out on our limited-time offer. Shop your favorites now and save big!"
+    },
+    {
+      "category": "promotional",
+      "subcategory": null,
+      "content": "content-type: text/html\nfrom: offers@travelworld.com\nsubject: Adventure Awaits – Book Now and Save!\nreturn-path: unsubscribe@travelworld.com\nbody: <h1>Plan Your Next Adventure</h1><p>Exclusive travel deals just for our subscribers. Book today!</p>"
+    },
+    {
+      "category": "promotional",
+      "subcategory": null,
+      "content": "content-type: text/plain\nfrom: rewards@fitlife.com\nsubject: Earn Double Points This Week!\nreturn-path: rewards@fitlife.com\nbody: Log in and earn double reward points on all purchases made this week. Act fast!"
+    },
+    {
+      "category": "promotional",
+      "subcategory": null,
+      "content": "content-type: text/html\nfrom: promo@gadgethub.com\nsubject: New Gadgets Arrived – Limited Stock!\nreturn-path: no-reply@gadgethub.com\nbody: <p>Check out the latest tech gadgets and get yours before they're gone!</p>"
+    },
+    {
+      "category": "promotional",
+      "subcategory": null,
+      "content": "content-type: text/plain\nfrom: deals@fashioncentral.com\nsubject: Flash Sale – Up to 70% Off Today!\nreturn-path: no-reply@fashioncentral.com\nbody: Grab your favorite fashion pieces now during our one-day flash sale!"
+    },
+    {
+      "category": "promotional",
+      "subcategory": null,
+      "content": "content-type: text/html\nfrom: newsletter@homeplus.com\nsubject: Spruce Up Your Home – Special Offers Inside\nreturn-path: unsubscribe@homeplus.com\nbody: <h2>Exclusive Home Decor Deals</h2><p>Get amazing discounts on our new collection today!</p>"
+    },
+    {
+      "category": "promotional",
+      "subcategory": null,
+      "content": "content-type: text/plain\nfrom: savings@autoexpress.com\nsubject: Save Big on Your Next Car Service\nreturn-path: no-reply@autoexpress.com\nbody: Schedule your service appointment now and enjoy exclusive discounts on labor and parts!"
+    },
+    {
+      "category": "promotional",
+      "subcategory": null,
+      "content": "content-type: text/html\nfrom: deals@bookworld.com\nsubject: Buy 2 Get 1 Free – This Week Only!\nreturn-path: promo@bookworld.com\nbody: <p>Expand your library! Buy any two books and get one free. Limited-time offer!</p>"
+    },
+    {
+      "category": "promotional",
+      "subcategory": null,
+      "content": "content-type: text/plain\nfrom: promo@healthessentials.com\nsubject: Special Discount on Vitamins and Supplements\nreturn-path: no-reply@healthessentials.com\nbody: Stock up on your health essentials with our exclusive discount codes today!"
+    },
+    {
+      "category": "promotional",
+      "subcategory": null,
+      "content": "content-type: text/html\nfrom: offers@petcareplus.com\nsubject: Treat Your Pet – Special Offers Inside\nreturn-path: unsubscribe@petcareplus.com\nbody: <h3>Pamper Your Furry Friend</h3><p>Discover limited-time discounts on pet supplies and treats!</p>"
+    },
+    {
+      "category": "promotional",
+      "subcategory": null,
+      "content": "content-type: text/plain\nfrom: savings@kitchenstore.com\nsubject: Kitchen Must-Haves – 30% Off This Week\nreturn-path: no-reply@kitchenstore.com\nbody: Upgrade your kitchen appliances and utensils with our special weekly discounts!"
+    },
+    {
+      "category": "promotional",
+      "subcategory": null,
+      "content": "content-type: text/html\nfrom: newsletter@beautyglow.com\nsubject: Discover Our New Skincare Line – Intro Offer!\nreturn-path: unsubscribe@beautyglow.com\nbody: <p>Introducing our latest skincare collection. Get an exclusive 20% off your first purchase!</p>"
+    },
+    {
+      "category": "promotional",
+      "subcategory": null,
+      "content": "content-type: text/plain\nfrom: deals@electronicsworld.com\nsubject: Hot Deals on Electronics – Limited Time\nreturn-path: no-reply@electronicsworld.com\nbody: Explore our latest electronic gadgets and accessories at unbeatable prices!"
+    },
+    {
+      "category": "promotional",
+      "subcategory": null,
+      "content": "content-type: text/html\nfrom: promo@greenliving.com\nsubject: Eco-Friendly Products – Save Today\nreturn-path: unsubscribe@greenliving.com\nbody: <p>Make sustainable choices with our eco-friendly products. Enjoy exclusive savings now!</p>"
+    },
+    {
+      "category": "promotional",
+      "subcategory": null,
+      "content": "content-type: text/plain\nfrom: deals@sportsgear.com\nsubject: Gear Up – Exclusive Sports Discounts!\nreturn-path: no-reply@sportsgear.com\nbody: Upgrade your sports equipment and apparel with our limited-time promotional discounts."
+    },
+    {
+      "category": "promotional",
+      "subcategory": null,
+      "content": "content-type: text/html\nfrom: offers@toyplanet.com\nsubject: New Toys Arrived – Special Launch Offer\nreturn-path: unsubscribe@toyplanet.com\nbody: <h3>Exciting New Toys!</h3><p>Get special launch discounts on our latest toy collection.</p>"
+    },
+    {
+      "category": "promotional",
+      "subcategory": null,
+      "content": "content-type: text/plain\nfrom: deals@officeplus.com\nsubject: Office Essentials – Save 25% Today\nreturn-path: no-reply@officeplus.com\nbody: Upgrade your office supplies with our exclusive promotion. Limited-time savings on select items!"
+    },
+    {
+      "category": "promotional",
+      "subcategory": null,
+      "content": "content-type: text/html\nfrom: newsletter@coffeelovers.com\nsubject: New Coffee Blends – Try Them Now!\nreturn-path: unsubscribe@coffeelovers.com\nbody: <p>Discover our newest coffee flavors. Enjoy 15% off your first order!</p>"
+    },
+    {
+      "category": "promotional",
+      "subcategory": null,
+      "content": "content-type: text/plain\nfrom: savings@fitnessworld.com\nsubject: Join Now and Get 1 Month Free!\nreturn-path: no-reply@fitnessworld.com\nbody: Sign up for our fitness program today and enjoy a complimentary month of training."
+    },
+    {
+      "category": "promotional",
+      "subcategory": null,
+      "content": "content-type: text/html\nfrom: offers@luxurystyle.com\nsubject: Exclusive Luxury Accessories – Limited Offer\nreturn-path: unsubscribe@luxurystyle.com\nbody: <p>Enhance your style with our premium accessories. Enjoy special launch discounts now!</p>"
+    }
+  ]
+  
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}

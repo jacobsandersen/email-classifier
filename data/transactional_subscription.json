@@ -1,0 +1,437 @@
+[
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: alerts@jobsphere.com\nsubject: Your Daily Job Alerts – Software Engineer Positions\nreturn-path: noreply@jobsphere.com\nbody: Hello,\nHere are the latest software engineer openings matching your preferences. Apply directly from the links below."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: updates@cityweather.com\nsubject: Severe Weather Alert – Thunderstorm Warning for ZIP 94107\nreturn-path: alerts@cityweather.com\nbody: A severe thunderstorm is expected in your area from 2‑4 PM today. Stay indoors and avoid travel if possible."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: notifications@banksecure.com\nsubject: Account Activity – New Login Detected\nreturn-path: security@banksecure.com\nbody: We noticed a login to your account from a new device on 2025‑12‑08 at 09:12 UTC. If this wasn't you, please contact support immediately."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: news@globalpress.com\nsubject: Your Morning Brief – Top International Headlines\nreturn-path: digest@globalpress.com\nbody: <h2>Good Morning!</h2><p>Here are the top stories shaping the world today:</p><ul><li>Global markets rally...</li><li>UN climate summit...</li></ul>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: alerts@flightradar.io\nsubject: Flight Status Update – AA1234 Delayed 30 Minutes\nreturn-path: service@flightradar.io\nbody: Your flight AA1234 from JFK to LAX is now scheduled to depart at 14:30 local time. We apologize for the inconvenience."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: updates@stockwatch.com\nsubject: Daily Stock Summary – Your Watchlist\nreturn-path: noreply@stockwatch.com\nbody: Apple (AAPL): +1.2% – Google (GOOGL): -0.5% – Amazon (AMZN): +0.8% – See the full report on your dashboard."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: notifications@myhealthapp.com\nsubject: Medication Reminder – 8 PM Today\nreturn-path: reminders@myhealthapp.com\nbody: This is a reminder to take your 10 mg Metoprolol tablet at 8 PM."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: alerts@trafficmonitor.net\nsubject: Traffic Alert – Accident on I‑95 Northbound\nreturn-path: updates@trafficmonitor.net\nbody: <p>There is a multi‑vehicle collision near exit 12 on I‑95 northbound. Expect delays of up to 20 minutes.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: updates@newspulse.com\nsubject: Evening News Digest – December 8, 2025\nreturn-path: digest@newspulse.com\nbody: Tonight’s top stories: Election results, market close, sports highlights. Click the link to read more."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: alerts@cryptotracker.io\nsubject: Price Alert – Bitcoin Reached $45,000\nreturn-path: notifications@cryptotracker.io\nbody: Bitcoin has hit your target price of $45,000. View your portfolio for details."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: notifications@onlinestore.com\nsubject: Order Confirmation – #845739\nreturn-path: sales@onlinestore.com\nbody: <p>Thank you for your purchase! Your order #845739 has been confirmed and will be shipped soon.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: alerts@weatherplus.com\nsubject: Daily Weather Forecast – Seattle, WA\nreturn-path: forecast@weatherplus.com\nbody: Today: Cloudy, high 58°F, low 45°F. 20% chance of rain in the evening."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: notifications@bankingplus.com\nsubject: Monthly Statement Ready – December 2025\nreturn-path: statements@bankingplus.com\nbody: Your December statement is now available in your online account. Log in to view or download."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: alerts@apptimings.com\nsubject: Appointment Reminder – Dental Cleaning on Dec 15 at 10:00 AM\nreturn-path: reminders@apptimings.com\nbody: <p>This is a friendly reminder for your upcoming dental cleaning appointment.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: updates@jobportal.io\nsubject: Weekly Remote Jobs – Data Science\nreturn-path: alerts@jobportal.io\nbody: New remote data science positions posted this week: 1) Senior Data Analyst – XYZ Corp, 2) ML Engineer – AlphaTech..."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: alerts@cityevents.org\nsubject: Tonight’s Event – Free Jazz Concert at Central Park\nreturn-path: events@cityevents.org\nbody: Join us at 7 PM for a live jazz performance. No tickets required."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: notifications@fastshipping.com\nsubject: Shipping Update – Package #123456789 Delivered\nreturn-path: support@fastshipping.com\nbody: <p>Your package has been delivered to the front porch. Thank you for choosing Fast Shipping.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: alerts@healthmonitor.com\nsubject: Daily Step Count – 8,752 Steps\nreturn-path: updates@healthmonitor.com\nbody: You walked 8,752 steps yesterday. Keep up the great work!"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: notifications@streamplus.com\nsubject: New Episode Release – \"Tech Trends\" S3E5\nreturn-path: updates@streamplus.com\nbody: The latest episode of \"Tech Trends\" is now available. Watch it on your favorite device."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: alerts@airlinealerts.com\nsubject: Flight Reminder – Your Flight UA789 departs tomorrow\nreturn-path: service@airlinealerts.com\nbody: <p>Departure: 2025‑12‑09 at 08:45 AM from SFO. Please arrive at the gate 45 minutes early.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: updates@financialnews.com\nsubject: Market Close Summary – Dec 8, 2025\nreturn-path: digest@financialnews.com\nbody: S&P 500 closed at 4,715 (+0.4%). Dow Jones up 0.3%, Nasdaq up 0.5%."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: alerts@librarysystem.org\nsubject: Hold Ready – \"Artificial Intelligence: A Guide\"\nreturn-path: notifications@librarysystem.org\nbody: Your requested book is now available for pickup. Please collect it within 3 days."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: notifications@fooddelivery.com\nsubject: Order Update – Your pizza is on the way!\nreturn-path: support@fooddelivery.com\nbody: <p>Driver John is 2 minutes away with your order. Thank you for ordering with FoodDelivery.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: alerts@smartmeter.io\nsubject: Daily Energy Usage – 12.3 kWh\nreturn-path: updates@smartmeter.io\nbody: Your household consumed 12.3 kWh yesterday, a 5% decrease from the previous day."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: alerts@citytransit.com\nsubject: Service Alert – Subway Line 2 Closed for Maintenance\nreturn-path: updates@citytransit.com\nbody: <p>Line 2 will be closed from 10 PM tonight until 6 AM tomorrow. Please use alternate routes.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: notifications@ecommercenow.com\nsubject: Your Wishlist Item is Back in Stock!\nreturn-path: sales@ecommercenow.com\nbody: Good news! The wireless earbuds you saved are now available. Purchase within 48 hours to secure yours."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: alerts@currencyhub.com\nsubject: Exchange Rate Alert – EUR/USD = 1.0850\nreturn-path: notifications@currencyhub.com\nbody: The EUR/USD exchange rate has reached your target of 1.0850."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: updates@recruiterpro.com\nsubject: New Match – Project Manager Role in Boston\nreturn-path: alerts@recruiterpro.com\nbody: A new posting matches your profile. View details and apply directly."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: alerts@weatheralert.com\nsubject: Heat Advisory – Temperatures Expected Above 95°F\nreturn-path: notifications@weatheralert.com\nbody: <p>Stay hydrated and limit outdoor activities today.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: notifications@bikeclub.org\nsubject: Weekly Ride Schedule – Saturday 9 AM\nreturn-path: alerts@bikeclub.org\nbody: This Saturday we ride the Riverside Loop (15 mi). Meet at the cafe at 8:45 AM."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: alerts@citypolice.gov\nsubject: Safety Alert – Missing Person Reported in Downtown\nreturn-path: notifications@citypolice.gov\nbody: <p>Police are searching for a 30‑year‑old male last seen near 5th Street. If you have information, please call 555‑1234.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: notifications@cloudservice.io\nsubject: Billing Notice – Your plan will renew on Dec 15\nreturn-path: billing@cloudservice.io\nbody: Your subscription to the Pro plan renews on 2025‑12‑15. The amount of $49.99 will be charged to your payment method."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: alerts@foodblogger.com\nsubject: New Recipe – Garlic‑Lemon Shrimp Pasta\nreturn-path: updates@foodblogger.com\nbody: Try this quick and flavorful recipe. Ingredients: shrimp, garlic, lemon, linguine..."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: notifications@onlinelearning.edu\nsubject: Course Completion – Data Visualization Certificate\nreturn-path: support@onlinelearning.edu\nbody: <p>Congratulations! You have earned the Data Visualization Certificate. Download your badge.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: alerts@petcareapp.com\nsubject: Vaccination Reminder – Your Dog's Rabies Shot Due\nreturn-path: reminders@petcareapp.com\nbody: Your dog's rabies vaccination is due on 2025‑12‑20. Schedule an appointment with your vet."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: alerts@citypark.gov\nsubject: Trail Closure – Oak Trail Closed for Repairs\nreturn-path: updates@citypark.gov\nbody: <p>Oak Trail will be closed from Dec 9–Dec 12. Please use alternative routes.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: notifications@softwareupdates.com\nsubject: Patch Release – Version 3.2.1 Available\nreturn-path: updates@softwareupdates.com\nbody: This release fixes critical security vulnerabilities. Please update your software at your earliest convenience."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: alerts@investmentportal.com\nsubject: Portfolio Summary – Weekly Performance\nreturn-path: reports@investmentportal.com\nbody: Your portfolio increased 2.3% this week. Top performer: ABC Corp (+5.1%)."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: notifications@hotelbooking.com\nsubject: Booking Confirmation – Resort Stay Dec 20‑Dec 25\nreturn-path: support@hotelbooking.com\nbody: <p>Thank you for booking the Ocean View Resort. Your reservation is confirmed.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: alerts@localnews.org\nsubject: Breaking News – City Council Approves New Park\nreturn-path: updates@localnews.org\nbody: The city council voted 7‑2 to fund the development of Riverside Park. Construction starts next month."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: notifications@banktransfer.com\nsubject: Transfer Completed – $1,200 Sent to Jane Doe\nreturn-path: alerts@banktransfer.com\nbody: Your transfer of $1,200 to Jane Doe (Account ending 4321) has been successfully processed."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: alerts@sportsupdates.net\nsubject: Live Score – Lakers vs. Celtics 3rd Quarter\nreturn-path: updates@sportsupdates.net\nbody: <p>Score at 9:45 PM: Lakers 62 – Celtics 58. Stay tuned for the final result.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: updates@weathercentral.com\nsubject: Sunrise & Sunset Times – New York, NY\nreturn-path: info@weathercentral.com\nbody: Sunrise: 7:12 AM, Sunset: 4:35 PM today."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: alerts@flightstatus.io\nsubject: Gate Change – Flight DL456 now at Gate B12\nreturn-path: notifications@flightstatus.io\nbody: Please proceed to Gate B12 for boarding. The scheduled departure time remains unchanged."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: notifications@elearning.org\nsubject: New Lesson Available – Chapter 4: Regression Analysis\nreturn-path: support@elearning.org\nbody: <p>Log in to continue your learning journey. New lesson is now accessible.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: alerts@citywater.com\nsubject: Water Outage Notice – Block 12, 2‑4 PM\nreturn-path: notifications@citywater.com\nbody: Planned maintenance will cause a temporary water outage in Block 12 between 2 PM and 4 PM today."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: notifications@taxportal.gov\nsubject: Tax Refund Status – $1,230 Processed\nreturn-path: updates@taxportal.gov\nbody: Your federal tax refund of $1,230 has been processed and will arrive in 3‑5 business days."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: alerts@collegeadmissions.edu\nsubject: Application Received – Thank You for Applying to State University\nreturn-path: admissions@collegeadmissions.edu\nbody: <p>We have received your application. You will receive a decision by March 1.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: updates@cryptoexchange.io\nsubject: Withdrawal Confirmation – 0.5 BTC Sent\nreturn-path: alerts@cryptoexchange.io\nbody: Your withdrawal of 0.5 BTC to address 1A2b3C... has been completed."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: alerts@foodallergy.org\nsubject: Allergy Alert – Peanut Contamination in Product X\nreturn-path: notifications@foodallergy.org\nbody: Product X (Batch #2025‑09) may contain traces of peanuts. Please check your pantry."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: notifications@streamingservice.com\nsubject: New Release – Documentary \"Ocean Depths\"\nreturn-path: updates@streamingservice.com\nbody: <p>Watch the latest documentary exploring marine ecosystems. Available now.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: alerts@hotelreservations.com\nsubject: Reminder – Upcoming Stay Dec 12‑Dec 15\nreturn-path: support@hotelreservations.com\nbody: Your reservation at City Center Hotel is confirmed. Check‑in starts at 3 PM on Dec 12."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: notifications@insuranceclaims.com\nsubject: Claim Update – Claim #78945 Approved\nreturn-path: alerts@insuranceclaims.com\nbody: Your claim for the water damage has been approved. The payout amount is $2,800."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: alerts@trafficwatcher.com\nsubject: Congestion Alert – Heavy Traffic on Highway 101\nreturn-path: updates@trafficwatcher.com\nbody: <p>Expect delays of up to 15 minutes due to an accident near Exit 24.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: updates@codingchallenge.io\nsubject: Daily Challenge – Solve the Maze Problem\nreturn-path: alerts@codingchallenge.io\nbody: Today's coding challenge: Implement an algorithm to find the shortest path through a maze. Good luck!"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: alerts@healthclinic.com\nsubject: Lab Results Ready – Click to View\nreturn-path: notifications@healthclinic.com\nbody: Your recent blood test results are now available in your patient portal."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: notifications@musicplatform.com\nsubject: Playlist Update – New Songs Added to \"Top Hits\"\nreturn-path: updates@musicplatform.com\nbody: <p>We've added fresh tracks from emerging artists. Listen now.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: alerts@citylibraries.org\nsubject: Event Reminder – Author Talk Tomorrow at 6 PM\nreturn-path: events@citylibraries.org\nbody: Join us for a conversation with bestselling novelist Jane Doe. Free entry."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: notifications@onlinegaming.net\nsubject: Friend Request Accepted – PlayerXYZ\nreturn-path: alerts@onlinegaming.net\nbody: PlayerXYZ has accepted your friend request. You can now invite them to games."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: alerts@electricutility.com\nsubject: Outage Notice – Power Outage Expected 9 PM‑11 PM\nreturn-path: notifications@electricutility.com\nbody: <p>A scheduled maintenance will cause a power interruption in your area tonight.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: updates@realestateportal.com\nsubject: New Listings – Apartments Under $1,500 in Downtown\nreturn-path: alerts@realestateportal.com\nbody: Check out 5 newly listed apartments that match your budget and location preferences."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: alerts@governmenttax.gov\nsubject: Reminder – Estimated Tax Payment Due Dec 15\nreturn-path: notifications@governmenttax.gov\nbody: Your estimated tax payment of $2,300 is due on 2025‑12‑15. Pay online to avoid penalties."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: notifications@wellnessapp.com\nsubject: Daily Wellness Tip – Hydration Reminder\nreturn-path: updates@wellnessapp.com\nbody: <p>Drink at least 8 glasses of water today to stay properly hydrated.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: alerts@airportinfo.com\nsubject: Gate Change – Flight BA215 now at Gate C7\nreturn-path: notifications@airportinfo.com\nbody: Updated gate information for your flight. Please proceed to Gate C7 for boarding."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: updates@parkingservice.net\nsubject: Parking Permit Renewal – Due Dec 31\nreturn-path: alerts@parkingservice.net\nbody: Your monthly parking permit expires soon. Renew online to avoid service interruption."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: alerts@cityevents.com\nsubject: Festival Reminder – Music Fest Starts Tomorrow\nreturn-path: updates@cityevents.com\nbody: <p>Don't miss the opening performances starting at 12 PM downtown.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: notifications@bankalerts.com\nsubject: Low Balance Alert – Your account balance is $45.20\nreturn-path: alerts@bankalerts.com\nbody: Consider depositing funds to avoid potential overdraft fees."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: alerts@fooddeliveryapp.com\nsubject: Delivery Delay – Your order will arrive in 20 minutes\nreturn-path: updates@fooddeliveryapp.com\nbody: The restaurant is experiencing high volume. Your order is on its way shortly."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: notifications@digitalmagazine.com\nsubject: New Issue Available – Tech Innovators June 2025\nreturn-path: updates@digitalmagazine.com\nbody: <p>Read the latest articles on AI, robotics, and more in our newest issue.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: alerts@university.edu\nsubject: Class Schedule Change – CS101 now at 10 AM\nreturn-path: notifications@university.edu\nbody: The start time for CS101 has been moved to 10 AM on Mondays and Wednesdays."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: updates@subscriptionbox.com\nsubject: Your Box is On Its Way – Expected Delivery Dec 9\nreturn-path: alerts@subscriptionbox.com\nbody: Your monthly curated box ships tomorrow. Track your package using the link below."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: alerts@cityhealth.gov\nsubject: Flu Shot Clinic – Open Today 9 AM‑3 PM\nreturn-path: notifications@cityhealth.gov\nbody: <p>Free flu vaccinations are available at the community center. No appointment needed.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: notifications@gymtracker.com\nsubject: Weekly Activity Summary – 12,300 Steps\nreturn-path: alerts@gymtracker.com\nbody: You logged 12,300 steps this week, exceeding your goal by 2,300. Great job!"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: alerts@cityparking.org\nsubject: Parking Violation Notice – Ticket #45678\nreturn-path: notifications@cityparking.org\nbody: You received a parking ticket on Dec 5 at 8 PM. Amount due: $55. Pay online within 30 days."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: notifications@podcastnetwork.com\nsubject: New Episode – \"Future of Work\" released\nreturn-path: updates@podcastnetwork.com\nbody: <p>Listen to the latest discussion on remote work trends and productivity tools.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: alerts@librarysystem.com\nsubject: Overdue Notice – \"The Great Gatsby\" due Dec 10\nreturn-path: notifications@librarysystem.com\nbody: Please return the overdue book to avoid late fees. Renew online if needed."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: updates@travelalerts.com\nsubject: Travel Advisory – Visa Requirements for Country X\nreturn-path: alerts@travelalerts.com\nbody: Effective Dec 15, travelers must obtain a visa prior to arrival. Check the official website for details."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: notifications@smarthome.io\nsubject: Device Alert – Smoke Detector Battery Low\nreturn-path: alerts@smarthome.io\nbody: <p>The battery in your hallway smoke detector is low. Replace it within the next 48 hours.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: alerts@onlinebank.com\nsubject: Direct Deposit Received – $2,500\nreturn-path: notifications@onlinebank.com\nbody: Your payroll deposit of $2,500 has been credited to your checking account."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: updates@careercoach.org\nsubject: New Job Match – Marketing Manager in Chicago\nreturn-path: alerts@careercoach.org\nbody: A new opening aligns with your profile. View details and apply today."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: alerts@citycouncil.gov\nsubject: Public Meeting Reminder – Budget Review Tomorrow\nreturn-path: notifications@citycouncil.gov\nbody: <p>Join the virtual meeting at 7 PM to discuss the upcoming fiscal budget.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: notifications@manufacturer.com\nsubject: Warranty Expiration Notice – Product Serial #A12345\nreturn-path: alerts@manufacturer.com\nbody: Your warranty for the XYZ blender expires on 2026‑01‑15. Consider renewal for continued coverage."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: alerts@streamingservice.com\nsubject: Subscription Renewal – Your Plan renews Dec 20\nreturn-path: notifications@streamingservice.com\nbody: Your Premium subscription will auto‑renew on 2025‑12‑20 for $12.99. No action needed."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: notifications@eventbrite.com\nsubject: Ticket Confirmation – Tech Conference 2025\nreturn-path: support@eventbrite.com\nbody: <p>Thank you for registering. Your e‑ticket is attached.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: alerts@weatherstation.com\nsubject: Snowfall Warning – Expected 4‑6 inches tonight\nreturn-path: notifications@weatherstation.com\nbody: Heavy snowfall is forecast for your area after 10 PM. Drive carefully."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/plain\nfrom: updates@healthinsure.com\nsubject: Claim Received – Reference #987654\nreturn-path: alerts@healthinsure.com\nbody: We have received your medical claim. Processing will begin within 5 business days."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "subscription",
+    "content": "content-type: text/html\nfrom: alerts@university.edu\nsubject: Exam Schedule Released – Fall 2025\nreturn-path: notifications@university.edu\nbody: <p>Your exam dates and times are now posted in the student portal.</p>"
+  }
+]

@@ -1,0 +1,462 @@
+[
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: security@banksecure.com\nsubject: Password Reset Request\nreturn-path: noreply@banksecure.com\nbody: We received a request to reset your password. Use the code 842931 to complete the reset. This code expires in 10 minutes."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@socialnet.com\nsubject: Verify Your Account Email\nreturn-path: verify@socialnet.com\nbody: Please confirm your email address by clicking the link: https://socialnet.com/verify/ABC123. This link will expire in 24 hours."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: no-reply@shopnow.com\nsubject: Your Order #A7854 is Out for Delivery Today\nreturn-path: alerts@shopnow.com\nbody: Good news! Your package is on the truck and will be delivered today between 2 PM–5 PM. Track it here: https://shopnow.com/track/A7854"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: security@cloudstore.io\nsubject: Unusual Login Attempt Detected\nreturn-path: alert@cloudstore.io\nbody: We detected a login to your account from a new device in Berlin at 03:12 AM UTC. If this was not you, secure your account immediately: https://cloudstore.io/security"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: notifications@healthclinic.com\nsubject: Appointment Reminder – Dr. Lee at 10:30 AM Tomorrow\nreturn-path: reminders@healthclinic.com\nbody: This is a reminder for your appointment with Dr. Lee tomorrow at 10:30 AM. Please arrive 10 minutes early."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: security@payfast.com\nsubject: Verify Payment Authorization\nreturn-path: alerts@payfast.com\nbody: A payment of $1,250.00 is pending approval. Use code 574839 to authorize. This code expires in 5 minutes."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: no-reply@streamcast.com\nsubject: Your Live Stream Starts in 15 Minutes\nreturn-path: alerts@streamcast.com\nbody: Your scheduled live stream \"Morning Talk\" will begin at 08:00 AM UTC. Click here to start: https://streamcast.com/start/5678"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@travelbooking.com\nsubject: Flight Change – New Departure Time 6:45 PM\nreturn-path: notifications@travelbooking.com\nbody: Your flight AA1234 to Chicago has been rescheduled to depart at 6:45 PM. Please review your itinerary."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: security@onlineshop.com\nsubject: Suspicious Activity Detected on Your Account\nreturn-path: alerts@onlineshop.com\nbody: We noticed a login from an unknown device. If this wasn't you, reset your password now: https://onlineshop.com/reset"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: notifications@utilityco.com\nsubject: Payment Due Today – $89.70\nreturn-path: alerts@utilityco.com\nbody: Your electricity bill of $89.70 is due today. Pay now to avoid late fees: https://utilityco.com/pay"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: no-reply@medicallab.com\nsubject: Lab Results Available – View Now\nreturn-path: alerts@medicallab.com\nbody: Your recent blood test results are ready. Access them securely at https://medicallab.com/results/9876. Link expires in 48 hours."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: security@banksecure.com\nsubject: Confirm New Device Login\nreturn-path: verify@banksecure.com\nbody: A new device attempted to access your account. Confirm if this was you by clicking: https://banksecure.com/confirm/XYZ123. Expires in 15 minutes."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@eventhub.com\nsubject: Event Starting Soon – Webinar \"AI Trends\" in 10 Minutes\nreturn-path: reminders@eventhub.com\nbody: Your registered webinar will begin at 02:00 PM UTC. Join now: https://eventhub.com/webinar/ai-trends"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: no-reply@fooddelivery.com\nsubject: Order #B4521 – Estimated Arrival in 20 Minutes\nreturn-path: alerts@fooddelivery.com\nbody: Your order is on the way and should arrive by 7:45 PM. Track here: https://fooddelivery.com/track/B4521"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: security@cloudmail.com\nsubject: Two‑Factor Authentication Code\nreturn-path: alerts@cloudmail.com\nbody: Your 2FA code is 194837. It will expire in 5 minutes. Enter it to complete sign‑in."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@banksecure.com\nsubject: Overdraft Alert – Immediate Action Required\nreturn-path: notifications@banksecure.com\nbody: Your checking account is overdrawn by $125. Deposit funds today to avoid fees."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: no-reply@courierservice.com\nsubject: Package Delivery Attempt – Action Needed\nreturn-path: alerts@courierservice.com\nbody: We attempted delivery of package #C8712. Please schedule a redelivery or pick up at your local facility."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: security@eduportal.edu\nsubject: Account Verification Required\nreturn-path: verify@eduportal.edu\nbody: To activate your new account, click the verification link within 24 hours: https://eduportal.edu/activate/LMN456"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@taxfiling.gov\nsubject: Tax Payment Deadline Tomorrow\nreturn-path: reminders@taxfiling.gov\nbody: Your tax payment of $3,200 is due tomorrow. Pay now to avoid penalties: https://taxfiling.gov/pay"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: no-reply@streamplus.com\nsubject: Your Subscription Renewal in 24 Hours\nreturn-path: alerts@streamplus.com\nbody: Your premium subscription expires tomorrow. Renew now to continue uninterrupted service: https://streamplus.com/renew"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: security@onlinebank.com\nsubject: Confirm Password Change\nreturn-path: alerts@onlinebank.com\nbody: You requested a password change. Confirm by clicking: https://onlinebank.com/confirm-change/7890. This link expires in 10 minutes."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@healthapp.com\nsubject: Medication Reminder – Take 50 mg Metoprolol Now\nreturn-path: reminders@healthapp.com\nbody: It's time to take your medication. Tap to confirm: https://healthapp.com/confirm/med/1234"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: no-reply@cloudstorage.com\nsubject: Low Storage Alert – 5 GB Remaining\nreturn-path: alerts@cloudstorage.com\nbody: Your cloud storage is almost full. Upgrade now to avoid interruption: https://cloudstorage.com/upgrade"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@banksecure.com\nsubject: Card Blocked – Verify Transaction\nreturn-path: security@banksecure.com\nbody: A transaction of $1,200 was blocked on your card ending 4321. If you recognize this, confirm here: https://banksecure.com/verify/txn/4567"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: security@socialnet.com\nsubject: Suspicious Activity Detected\nreturn-path: alerts@socialnet.com\nbody: We noticed a login from an unrecognized location. If this wasn't you, secure your account: https://socialnet.com/security"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@utilityco.com\nsubject: Service Outage – Estimated Restoration at 4 AM\nreturn-path: updates@utilityco.com\nbody: A power outage is affecting your area. Restoration is expected by 4 AM tomorrow. Stay safe."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: no-reply@fitnessapp.com\nsubject: Workout Session Starts in 30 Minutes\nreturn-path: reminders@fitnessapp.com\nbody: Your live workout class \"HIIT Blast\" begins at 6:00 PM. Join now: https://fitnessapp.com/class/hiit-blast"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlinebank.com\nsubject: Unusual Withdrawal Attempt Detected\nreturn-path: security@onlinebank.com\nbody: A withdrawal of $500 was attempted from your account. If you did not authorize this, contact us immediately: https://onlinebank.com/contact"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: notifications@taxfiling.gov\nsubject: Refund Disbursement – Expected Today\nreturn-path: alerts@taxfiling.gov\nbody: Your tax refund of $1,850 will be deposited into your account today. Check your balance later."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: no-reply@meetingplatform.com\nsubject: Meeting Starting in 5 Minutes – Project Sync\nreturn-path: alerts@meetingplatform.com\nbody: Your scheduled meeting \"Project Sync\" will start at 09:05 AM UTC. Join: https://meetingplatform.com/room/abc123"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: security@banksecure.com\nsubject: Verify Your New Phone Number\nreturn-path: alerts@banksecure.com\nbody: You added a new phone number to your account. Verify it now with code 297618. Expires in 10 minutes."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@courierservice.com\nsubject: Delivery Rescheduled – New Time 3‑5 PM\nreturn-path: notifications@courierservice.com\nbody: Your package #D1023 has been rescheduled to arrive between 3‑5 PM today. Track here: https://courierservice.com/track/D1023"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: no-reply@cloudmail.com\nsubject: Email Verification Needed\nreturn-path: verify@cloudmail.com\nbody: Confirm your email address by clicking: https://cloudmail.com/verify/JKL789. Link expires in 2 hours."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@healthclinic.com\nsubject: Lab Test Result – Immediate Review Required\nreturn-path: notifications@healthclinic.com\nbody: Your labs show elevated cholesterol. Please schedule a follow‑up within 2 days: https://healthclinic.com/appointments"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: security@onlinebank.com\nsubject: Confirm New Payee Addition\nreturn-path: alerts@onlinebank.com\nbody: You added a new payee \"Acme Corp\". Confirm with code 663021 within 10 minutes."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@utilityco.com\nsubject: Payment Confirmation Needed – $45.60 Due Today\nreturn-path: notifications@utilityco.com\nbody: Your water bill is due now. Confirm payment to avoid service interruption: https://utilityco.com/pay/4567"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: no-reply@travelbooking.com\nsubject: Check‑in Opens in 2 Hours\nreturn-path: alerts@travelbooking.com\nbody: Online check‑in for flight DL456 opens at 10:00 AM UTC. Complete it here: https://travelbooking.com/checkin/DL456"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@shopping.com\nsubject: Cart Expiration – Items will be removed in 1 hour\nreturn-path: notifications@shopping.com\nbody: The items in your cart are reserved for another 60 minutes. Complete purchase now: https://shopping.com/cart"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: security@banksecure.com\nsubject: OTP for Transaction Confirmation\nreturn-path: alerts@banksecure.com\nbody: Your one‑time password is 581294. Use it to confirm the $250 transfer. Expires in 5 minutes."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@medicallab.com\nsubject: Critical Test Result – Contact Doctor Immediately\nreturn-path: notifications@medicallab.com\nbody: Your recent test indicates a critical value. Please call your physician immediately at 555‑1234."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: no-reply@streamplus.com\nsubject: New Episode Available – Watch Within 24 Hours\nreturn-path: alerts@streamplus.com\nbody: \"The Mystery Continues\" is now live. Watch within the next 24 hours before it expires for free."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@banksecure.com\nsubject: Suspicious Transfer Blocked\nreturn-path: security@banksecure.com\nbody: A transfer of $3,400 to account 987654321 was blocked. If you initiated this, verify now: https://banksecure.com/verify/transfer/9123"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: security@onlinebank.com\nsubject: Password Change Confirmation Required\nreturn-path: alerts@onlinebank.com\nbody: You requested a password change. Confirm with code 742859 within 10 minutes."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@utilityco.com\nsubject: Service Interruption Notice – 2 Hours Remaining\nreturn-path: updates@utilityco.com\nbody: Power restoration is expected in approximately 2 hours. Thank you for your patience."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: notifications@fooddelivery.com\nsubject: Driver Arriving Soon – 5 Minutes\nreturn-path: alerts@fooddelivery.com\nbody: Your order #F3312 is about to arrive. Driver is 5 minutes away. Track live: https://fooddelivery.com/track/F3312"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: no-reply@cloudmail.com\nsubject: Account Recovery Link – 30 Minutes Until Expiration\nreturn-path: alerts@cloudmail.com\nbody: Reset your password using this link: https://cloudmail.com/recover/XYZ987. It expires in 30 minutes."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@healthapp.com\nsubject: Blood Pressure Alert – Reading High\nreturn-path: notifications@healthapp.com\nbody: Your recent blood pressure reading is 150/95. Consult your doctor if this persists."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: security@banksecure.com\nsubject: Verify New Email Address\nreturn-path: alerts@banksecure.com\nbody: You added a new email address to your account. Verify it now with code 835610 (expires in 15 mins)."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@courierservice.com\nsubject: Redelivery Attempt – Schedule Now\nreturn-path: notifications@courierservice.com\nbody: We attempted delivery of package #E7543. Choose a new delivery time here: https://courierservice.com/reschedule/E7543"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: no-reply@meetingplatform.com\nsubject: Meeting Starts in 10 Minutes – Team Standup\nreturn-path: alerts@meetingplatform.com\nbody: Your standup meeting begins at 11:00 AM UTC. Join now: https://meetingplatform.com/room/standup-2025"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@onlinebank.com\nsubject: Large Transaction Pending Review\nreturn-path: security@onlinebank.com\nbody: A transaction of $9,999 is pending approval. Verify the transaction here: https://onlinebank.com/approve/txn/7777"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: notifications@taxfiling.gov\nsubject: Missing Information – Return Incomplete\nreturn-path: alerts@taxfiling.gov\nbody: Your tax return is missing required Schedule C information. Submit the missing data before 5 PM today."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@utilityco.com\nsubject: Water Leak Detected – Immediate Action Needed\nreturn-path: notifications@utilityco.com\nbody: Sensors indicate a possible leak at your address. Please shut off water and contact us ASAP: https://utilityco.com/leak-report"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: no-reply@shopping.com\nsubject: Flash Sale Ends in 1 Hour – Up to 70% Off\nreturn-path: alerts@shopping.com\nbody: Hurry! Our flash sale expires at 11:59 PM UTC. Grab deals now: https://shopping.com/flash-sale"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: security@banksecure.com\nsubject: Immediate Password Reset Required\nreturn-path: alerts@banksecure.com\nbody: For security reasons, your password must be reset. Use this link within 15 minutes: https://banksecure.com/reset/secure123"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@travelbooking.com\nsubject: Gate Change – New Gate B22\nreturn-path: notifications@travelbooking.com\nbody: Your flight UA456 now departs from Gate B22. Arrive at the gate promptly."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: notifications@medicallab.com\nsubject: Critical Alert – Low Blood Sugar\nreturn-path: alerts@medicallab.com\nbody: Your recent glucose reading is 55 mg/dL. Seek medical attention immediately."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@banksecure.com\nsubject: Unrecognized Device Login – Verify\nreturn-path: security@banksecure.com\nbody: A login was detected from a device not recognized. Verify this activity using code 472639 (expires in 5 minutes)."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: no-reply@cloudmail.com\nsubject: Email Change Confirmation\nreturn-path: alerts@cloudmail.com\nbody: You requested to change your primary email. Confirm with code 903274 within 10 minutes."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@healthclinic.com\nsubject: Appointment Cancellation – Action Required\nreturn-path: notifications@healthclinic.com\nbody: Your appointment on Dec 10 at 2 PM has been cancelled due to a scheduling conflict. Please reschedule within 48 hours."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: security@onlinebank.com\nsubject: Verify New Beneficiary\nreturn-path: alerts@onlinebank.com\nbody: You added a new beneficiary \"John Doe\". Confirm with code 618475 (expires in 10 minutes)."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@utilityco.com\nsubject: Electricity Price Spike – Immediate Usage Review\nreturn-path: notifications@utilityco.com\nbody: Energy rates have increased by 15% today. Consider reducing consumption to avoid high charges."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: no-reply@fooddelivery.com\nsubject: Order Cancellation – Please Confirm\nreturn-path: alerts@fooddelivery.com\nbody: Your order #G5542 was cancelled due to restaurant unavailability. Reply if you wish to reorder."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@banksecure.com\nsubject: Overdraft Protection Deactivated\nreturn-path: security@banksecure.com\nbody: Your overdraft protection has been turned off after exceeding limit. Deposit funds within 24 hours to avoid fees."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: notifications@taxfiling.gov\nsubject: Final Deadline Tomorrow – Submit Returns\nreturn-path: alerts@taxfiling.gov\nbody: This is your final reminder to file tax returns by 5 PM tomorrow. Late filing may incur penalties."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@courierservice.com\nsubject: Package Held at Customs – Action Required\nreturn-path: notifications@courierservice.com\nbody: Your shipment #F9876 is held for customs clearance. Provide required documents within 24 hours: https://courierservice.com/customs/F9876"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: security@onlinebank.com\nsubject: Unauthorized Card Transaction Detected\nreturn-path: alerts@onlinebank.com\nbody: A transaction of $120 at \"ElectroMart\" was flagged as suspicious. If you did not approve, click here to dispute: https://onlinebank.com/dispute/txn/4455"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@meetingplatform.com\nsubject: Meeting Rescheduled – New Time 4 PM\nreturn-path: notifications@meetingplatform.com\nbody: Your \"Quarterly Review\" meeting has been moved to 4 PM UTC. Join: https://meetingplatform.com/room/qtr-review"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: no-reply@cloudmail.com\nsubject: Two‑Factor Authentication Code\nreturn-path: alerts@cloudmail.com\nbody: Your 2FA code is 308921. It expires in 5 minutes."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@utilityco.com\nsubject: Water Service Interruption – Estimated 3‑Hour Outage\nreturn-path: notifications@utilityco.com\nbody: Due to scheduled maintenance, water service will be unavailable for approximately 3 hours starting at 8 AM."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: notifications@healthapp.com\nsubject: High Heart Rate Detected – Immediate Attention\nreturn-path: alerts@healthapp.com\nbody: Your wearable reported a heart rate of 158 bpm at rest. Consider seeking medical advice."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@banksecure.com\nsubject: Suspicious Transfer Blocked – $2,300\nreturn-path: security@banksecure.com\nbody: We blocked a transfer of $2,300 to account 123456789. If you initiated this, confirm now: https://banksecure.com/confirm/transfer/9988"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: no-reply@travelbooking.com\nsubject: Boarding Pass Available – Download Now\nreturn-path: alerts@travelbooking.com\nbody: Your boarding pass for flight BA789 is ready. Download: https://travelbooking.com/boarding/BA789"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@shopping.com\nsubject: Limited Stock – Only 2 Items Left!\nreturn-path: notifications@shopping.com\nbody: Your wishlist item is low on stock. Purchase within the next hour to secure it: https://shopping.com/item/12345"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: security@onlinebank.com\nsubject: Verify Recent Password Change\nreturn-path: alerts@onlinebank.com\nbody: You changed your password recently. Confirm the change with code 720194 (expires in 10 minutes)."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@utilityco.com\nsubject: Gas Leak Detected – Evacuate Immediately\nreturn-path: notifications@utilityco.com\nbody: Sensors have detected a possible gas leak at your premises. Evacuate and call emergency services."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: notifications@fooddelivery.com\nsubject: Order #H7743 – Cancelled by Restaurant\nreturn-path: alerts@fooddelivery.com\nbody: The restaurant is unable to fulfill your order. You will receive a full refund within 24 hours."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@banksecure.com\nsubject: Account Locked – Verify Identity\nreturn-path: security@banksecure.com\nbody: Your account has been locked due to multiple failed login attempts. Verify your identity using code 395721 within 15 minutes."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: no-reply@cloudmail.com\nsubject: Email Delivery Failure – Action Needed\nreturn-path: alerts@cloudmail.com\nbody: Your email to xyz@example.com could not be delivered. Review the error and resend."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@healthclinic.com\nsubject: Lab Result – Critical Low Hemoglobin\nreturn-path: notifications@healthclinic.com\nbody: Your recent hemoglobin level is critically low. Please contact your physician immediately."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: security@onlinebank.com\nsubject: New Device Login Alert\nreturn-path: alerts@onlinebank.com\nbody: A login from a new device was detected at 02:14 AM UTC. If this wasn't you, secure your account now."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@utilityco.com\nsubject: Power Outage – Estimated Restoration 6 AM\nreturn-path: notifications@utilityco.com\nbody: An outage affecting your area is expected to be resolved by 6 AM tomorrow."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: no-reply@meetingplatform.com\nsubject: Recording Available – Team Sync\nreturn-path: alerts@meetingplatform.com\nbody: The recording of yesterday's team sync is now available: https://meetingplatform.com/recordings/ts5678"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@banksecure.com\nsubject: Immediate Action Required – Account Verification\nreturn-path: security@banksecure.com\nbody: To keep your account active, verify your identity with code 864302 within 12 minutes."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: notifications@taxfiling.gov\nsubject: Tax Refund Delay – Additional Information Needed\nreturn-path: alerts@taxfiling.gov\nbody: We need more documentation to process your refund. Upload required files by 5 PM today."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@courierservice.com\nsubject: Delivery Exception – Address Not Found\nreturn-path: notifications@courierservice.com\nbody: Delivery of package #J8823 failed because the address could not be verified. Please provide a correct address."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: security@onlinebank.com\nsubject: Suspicious Login Attempt from New Country\nreturn-path: alerts@onlinebank.com\nbody: A login was attempted from Russia. If this wasn't you, reset your password immediately."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@streamplus.com\nsubject: New Live Event Starting in 5 Minutes\nreturn-path: notifications@streamplus.com\nbody: The live concert \"Sunset Beats\" begins soon. Join now: https://streamplus.com/live/sunset-beats"
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: no-reply@cloudmail.com\nsubject: Email Alias Change Confirmation\nreturn-path: alerts@cloudmail.com\nbody: You requested to add an alias \"sales@yourdomain.com\". Confirm with code 541902 (expires in 10 minutes)."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@healthclinic.com\nsubject: Critical Lab Result – Immediate Follow‑up Required\nreturn-path: notifications@healthclinic.com\nbody: Your recent test shows dangerously low potassium levels. Please contact your doctor within the hour."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: security@banksecure.com\nsubject: Verify Recent Card Purchase\nreturn-path: alerts@banksecure.com\nbody: A $250 purchase at \"TechStore\" was detected. If you made this purchase, confirm with code 379251 (expires in 5 minutes)."
+  },
+  {
+    "category": "time_sensitive",
+    "subcategory": null,
+    "content": "content-type: text/plain\nfrom: alerts@utilityco.com\nsubject: Sewer Backup Alert – Immediate Action Required\nreturn-path: notifications@utilityco.com\nbody: A sewer backup has been reported at your address. Please avoid using water fixtures and contact emergency services."
+  }
+]

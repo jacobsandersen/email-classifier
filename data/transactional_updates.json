@@ -1,0 +1,472 @@
+[
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: notifications@youtube.com\nsubject: New video from TechGuru: \"Top 10 AI Tools\"\nreturn-path: service@youtube.com\nbody: <p>Hi there,</p><p>TechGuru just uploaded a new video titled \"Top 10 AI Tools\". Watch now: <a href=\"https://youtu.be/abc123\">https://youtu.be/abc123</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: blog@greenliving.org\nsubject: New Blog Post – 5 Ways to Reduce Plastic Waste\nreturn-path: updates@greenliving.org\nbody: Hi,\nWe just published \"5 Ways to Reduce Plastic Waste\". Read it at https://greenliving.org/blog/plastic-waste\n"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: newsletter@dailyhealth.com\nsubject: Daily Health Newsletter – Your Wellness Tips for Today\nreturn-path: news@dailyhealth.com\nbody: <h1>Today's Wellness Tips</h1><ul><li>Drink 8 glasses of water</li><li>Take a 10‑minute walk</li></ul>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: alerts@socialapp.com\nsubject: New follower: @jane_doe\nreturn-path: notifications@socialapp.com\nbody: @jane_doe just started following you. View their profile at https://socialapp.com/jane_doe"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: notifications@facebookmail.com\nsubject: John Smith posted a new photo\nreturn-path: fbalerts@facebookmail.com\nbody: John Smith shared \"Sunset at the beach\". See the photo: https://facebook.com/photo/12345"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: noreply@forumhub.com\nsubject: New comment on your thread \"Best programming languages\"\nreturn-path: alerts@forumhub.com\nbody: Alice replied: \"I think Rust is a great choice for system programming.\" View the comment: https://forumhub.com/thread/987#comment-456"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: updates@streamify.com\nsubject: New Playlist: Chill Beats Vol. 2\nreturn-path: newsletters@streamify.com\nbody: <p>We've added a fresh playlist just for you. <a href=\"https://streamify.com/playlist/chill-beats-2\">Listen now</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: podcast@techcast.io\nsubject: Episode 45 – \"The Future of Quantum Computing\"\nreturn-path: alerts@techcast.io\nbody: The newest episode is live. Stream it at https://techcast.io/episode/45"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: digests@devcommunity.org\nsubject: Weekly Digest – New Questions & Answers\nreturn-path: newsletter@devcommunity.org\nbody: <p>Check out the latest Q&A activity on DevCommunity. <a href=\"https://devcommunity.org/digest\">View Digest</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: news@travelblog.net\nsubject: New Post – Exploring the Fjords of Norway\nreturn-path: updates@travelblog.net\nbody: Discover the breathtaking fjords in our latest post: https://travelblog.net/fjords-norway"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: alerts@gamehub.com\nsubject: Patch 2.3.1 – New Features & Bug Fixes\nreturn-path: updates@gamehub.com\nbody: <p>Version 2.3.1 is now live. <a href=\"https://gamehub.com/patchnotes/2.3.1\">Read the notes</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: no-reply@medium.com\nsubject: New story by Emily Clark – \"Minimalist Living\"\nreturn-path: alerts@medium.com\nbody: Emily Clark just published \"Minimalist Living\". Read it: https://medium.com/@emilyclark/minimalist-living"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: newsletters@foodieclub.com\nsubject: Recipe of the Week – Spicy Thai Noodles\nreturn-path: updates@foodieclub.com\nbody: <h2>Spicy Thai Noodles</h2><p>Try this quick, flavorful recipe! <a href=\"https://foodieclub.com/recipes/thai-noodles\">View Recipe</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: alerts@photoapp.io\nsubject: Your photo \"Sunrise\" received 150 likes!\nreturn-path: notifications@photoapp.io\nbody: Congratulations! Your photo \"Sunrise\" now has 150 likes. Share it: https://photoapp.io/photo/789"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: updates@technews.com\nsubject: Breaking: New iPhone Model Rumors\nreturn-path: newsletter@technews.com\nbody: <p>Industry insiders suggest a new iPhone will be released later this year. <a href=\"https://technews.com/iphone-rumors\">Read More</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: no-reply@linkedin.com\nsubject: New connection request from Maria Lopez\nreturn-path: alerts@linkedin.com\nbody: Maria Lopez wants to connect with you. Accept or ignore at https://linkedin.com/in/maria-lopez"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: alerts@musicstream.com\nsubject: New Album Release – \"Echoes\" by Luna Waves\nreturn-path: newsletters@musicstream.com\nbody: <p>Listen to Luna Waves' newest album <strong>Echoes</strong> now. <a href=\"https://musicstream.com/album/echoes\">Play Album</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: updates@codeacademy.org\nsubject: New Course – Introduction to Rust\nreturn-path: newsletter@codeacademy.org\nbody: Enroll in the latest Rust programming course: https://codeacademy.org/courses/rust-intro"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: notifications@bookclub.net\nsubject: New Book Recommendation – \"The Silent Patient\"\nreturn-path: updates@bookclub.net\nbody: <p>We think you'll love \"The Silent Patient\". <a href=\"https://bookclub.net/recommendations/silent-patient\">Read Synopsis</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: alerts@fitapp.io\nsubject: Weekly Summary – 42,000 steps\nreturn-path: notifications@fitapp.io\nbody: Great job! You walked 42,000 steps this week, exceeding your goal by 5,000."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: newsletters@cinema.com\nsubject: New Trailer – \"Space Odyssey 2099\"\nreturn-path: updates@cinema.com\nbody: <p>Watch the exclusive trailer for \"Space Odyssey 2099\" now! <a href=\"https://cinema.com/trailers/space-odyssey-2099\">Watch Trailer</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: no-reply@eventbrite.com\nsubject: New Event Near You – Tech Expo 2025\nreturn-path: alerts@eventbrite.com\nbody: Don't miss the Tech Expo on Dec 15. Register at https://eventbrite.com/e/tech-expo-2025"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: alerts@newsdaily.com\nsubject: Morning Brief – Top Stories for Dec 8\nreturn-path: newsletter@newsdaily.com\nbody: <ul><li>Market rally continues</li><li>Climate summit outcomes</li></ul><p>Read more at <a href=\"https://newsdaily.com/morning-brief-2025-12-08\">Morning Brief</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: notifications@gaminghub.com\nsubject: New Achievement Unlocked – \"Master Strategist\"\nreturn-path: alerts@gaminghub.com\nbody: Congrats! You earned the \"Master Strategist\" badge on ChessMaster 3. View your profile: https://gaminghub.com/user/5678"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: updates@designlab.io\nsubject: New Tutorial – Creating Dark Mode in CSS\nreturn-path: newsletter@designlab.io\nbody: <p>Learn how to implement dark mode with CSS in our new tutorial. <a href=\"https://designlab.io/tutorials/dark-mode-css\">Start Learning</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: alerts@photoapp.io\nsubject: Your album \"Summer 2023\" is now public\nreturn-path: notifications@photoapp.io\nbody: Your album is live. Share it: https://photoapp.io/album/123"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: newsletters@mentalhealth.org\nsubject: New Article – Coping with Anxiety\nreturn-path: updates@mentalhealth.org\nbody: <p>Read our latest guide on coping strategies for anxiety. <a href=\"https://mentalhealth.org/articles/coping-anxiety\">Read Article</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: no-reply@stackoverflow.com\nsubject: Your answer received 10 upvotes!\nreturn-path: alerts@stackoverflow.com\nbody: Your answer to \"How to reverse a linked list?\" was upvoted 10 times. View: https://stackoverflow.com/a/987654"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: alerts@petcare.com\nsubject: New Vet Tip – Dental Health for Dogs\nreturn-path: newsletter@petcare.com\nbody: <p>Keep your dog's teeth clean with these simple tips. <a href=\"https://petcare.com/tips/dental-health\">Read More</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: updates@languageapp.io\nsubject: New Lesson – Advanced Spanish Subjunctive\nreturn-path: newsletters@languageapp.io\nbody: Continue your Spanish journey with the new advanced subjunctive lesson. https://languageapp.io/lessons/adv-subjunctive"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: notifications@cloudservice.com\nsubject: Maintenance Completed – Services Restored\nreturn-path: alerts@cloudservice.com\nbody: <p>The scheduled maintenance on Dec 7 is complete. All services are operational.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: no-reply@cointracker.io\nsubject: Portfolio Update – BTC up 3.2%\nreturn-path: alerts@cointracker.io\nbody: Your Bitcoin holdings increased by 3.2% today. Current value: $27,450."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: newsletters@fitnesszone.com\nsubject: New Workout – 20‑Minute HIIT\nreturn-path: updates@fitnesszone.com\nbody: <h2>20‑Minute HIIT</h2><p>Burn calories fast with this new high‑intensity interval training routine. <a href=\"https://fitnesszone.com/workouts/hiit-20\">Start Now</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: alerts@smarthome.io\nsubject: Firmware Update Available for Your Thermostat\nreturn-path: updates@smarthome.io\nbody: A new firmware (v2.1.4) improves temperature accuracy. Update via the app today."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: notifications@recipehub.com\nsubject: Trending Recipe – Avocado Toast Deluxe\nreturn-path: newsletters@recipehub.com\nbody: <p>Try our trending Avocado Toast Deluxe. <a href=\"https://recipehub.com/avocado-toast-deluxe\">Get the Recipe</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: no-reply@medium.com\nsubject: Your story \"City Lights\" has 2,000 reads\nreturn-path: alerts@medium.com\nbody: Congratulations! Your story reached 2,000 reads. Keep writing and share your work."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: alerts@stockwatch.com\nsubject: Market Alert – S&P 500 hits record high\nreturn-path: updates@stockwatch.com\nbody: <p>The S&P 500 closed at a new record of 5,200 points. <a href=\"https://stockwatch.com/market-summary\">View Details</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: notifications@travelapp.io\nsubject: Flight Change – Your flight AA789 now departs at 11:45 AM\nreturn-path: alerts@travelapp.io\nbody: New departure time for AA789. Please check your itinerary for gate information."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: newsletters@healthyliving.org\nsubject: New Podcast Episode – \"Mindful Eating\"\nreturn-path: updates@healthyliving.org\nbody: <p>Listen to our latest episode on mindful eating habits. <a href=\"https://healthyliving.org/podcast/mindful-eating\">Play Now</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: alerts@cityevents.com\nsubject: Reminder – Free Yoga in the Park tomorrow at 9 AM\nreturn-path: notifications@cityevents.com\nbody: Join us for a community yoga session at Central Park. Bring a mat."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: updates@codingblog.net\nsubject: New Article – \"Understanding Async/Await in JavaScript\"\nreturn-path: newsletter@codingblog.net\nbody: <p>Deep dive into async programming. <a href=\"https://codingblog.net/articles/async-await\">Read Article</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: no-reply@climatewatch.org\nsubject: Weekly Climate Report – Global CO₂ Levels\nreturn-path: alerts@climatewatch.org\nbody: This week's global CO₂ concentration averaged 419 ppm. Detailed report at https://climatewatch.org/report/2025-12-08"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: alerts@musicstream.com\nsubject: New Live Session – DJ Aurora\nreturn-path: newsletters@musicstream.com\nbody: <p>Watch DJ Aurora's exclusive live set now. <a href=\"https://musicstream.com/live/dj-aurora\">Watch Live</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: notifications@fitnessapp.io\nsubject: Goal Achieved – 5 km run in 25 minutes!\nreturn-path: alerts@fitnessapp.io\nbody: Congrats on beating your running goal. Keep up the momentum!"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: newsletters@artgallery.com\nsubject: Exhibition Opening – \"Modern Horizons\"\nreturn-path: updates@artgallery.com\nbody: <p>You're invited to the opening of \"Modern Horizons\" on Dec 10. <a href=\"https://artgallery.com/exhibitions/horizons\">Details & RSVP</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: alerts@polls.io\nsubject: New Poll – Your Opinion on Remote Work\nreturn-path: notifications@polls.io\nbody: Share your thoughts on remote work trends. Vote at https://polls.io/poll/remote-work"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: updates@photoblogging.com\nsubject: New Blog Post – \"Night Photography Tips\"\nreturn-path: newsletter@photoblogging.com\nbody: <p>Improve your night shots with these tips. <a href=\"https://photoblogging.com/night-tips\">Read Now</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: no-reply@bookclub.org\nsubject: New Discussion – \"The Invisible Life of Addie LaRue\"\nreturn-path: alerts@bookclub.org\nbody: Join the conversation about the latest bestseller. Comment at https://bookclub.org/discussion/3421"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: newsletters@techinsider.com\nsubject: Latest Gadget Review – Smart Glasses\nreturn-path: updates@techinsider.com\nbody: <p>Our hands‑on review of the newest smart glasses is live. <a href=\"https://techinsider.com/reviews/smart-glasses\">Read Review</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: alerts@languageexchange.org\nsubject: New Match – You’ve been paired with Carlos (Spanish)\nreturn-path: notifications@languageexchange.org\nbody: Start chatting with Carlos at https://languageexchange.org/chat/5678"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: updates@moviebuff.com\nsubject: Trailer Drop – \"The Last Frontier\"\nreturn-path: newsletters@moviebuff.com\nbody: <p>Watch the official trailer for \"The Last Frontier\" now. <a href=\"https://moviebuff.com/trailer/last-frontier\">Watch Trailer</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: no-reply@healthtracker.com\nsubject: Monthly Health Summary – 5% improvement in VO₂ max\nreturn-path: alerts@healthtracker.com\nbody: Your cardio fitness improved by 5% this month. Keep up the good work!"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: alerts@smartcity.gov\nsubject: Public Service Announcement – Water Conservation Tips\nreturn-path: updates@smartcity.gov\nbody: <p>Help conserve water this winter. <a href=\"https://smartcity.gov/water-conservation\">Learn More</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: notifications@ecommercenow.com\nsubject: Item Back in Stock – Wireless Earbuds Model X2\nreturn-path: alerts@ecommercenow.com\nbody: The wireless earbuds you wanted are back in stock. Purchase now before they sell out."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: newsletters@travelguides.com\nsubject: New Destination Guide – Reykjavik, Iceland\nreturn-path: updates@travelguides.com\nbody: <p>Explore Reykjavik with our comprehensive guide. <a href=\"https://travelguides.com/reykjavik\">Read Guide</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: alerts@financenews.io\nsubject: Interest Rate Change – Federal Reserve Announces 0.25% Increase\nreturn-path: newsletter@financenews.io\nbody: The Fed raised rates by 0.25%. See how it may affect your loans."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: notifications@streamplus.com\nsubject: New Series Added – \"History Uncovered\"\nreturn-path: newsletters@streamplus.com\nbody: <p>Start watching the brand‑new historical documentary series today. <a href=\"https://streamplus.com/series/history-uncovered\">Watch Now</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: no-reply@devforum.io\nsubject: Your question received a new answer\nreturn-path: alerts@devforum.io\nbody: User \"CodeMaster\" answered your question on React hooks. View it at https://devforum.io/q/12345"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: alerts@smartwatchpro.com\nsubject: Firmware Update – Version 5.0 Ready\nreturn-path: updates@smartwatchpro.com\nbody: <p>Install the latest firmware to improve battery life. <a href=\"https://smartwatchpro.com/firmware/5.0\">Update Now</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: notifications@podcastnetwork.com\nsubject: New Episode – \"AI in Healthcare\"\nreturn-path: alerts@podcastnetwork.com\nbody: Listen to the latest episode discussing AI's impact on healthcare. https://podcastnetwork.com/episodes/ai-healthcare"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: newsletters@ecoportal.org\nsubject: New Initiative – Plant a Tree for Every Purchase\nreturn-path: updates@ecoportal.org\nbody: <p>Support reforestation with every order you place. <a href=\"https://ecoportal.org/initiative\">Learn More</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: alerts@jobsearch.io\nsubject: New Job Match – Senior UX Designer in Remote\nreturn-path: notifications@jobsearch.io\nbody: A senior UX Designer role fits your profile. View details: https://jobsearch.io/listing/98765"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: updates@digitalmag.com\nsubject: Featured Article – \"The Rise of Electric Vehicles\"\nreturn-path: newsletter@digitalmag.com\nbody: <p>Read our in‑depth look at the EV market. <a href=\"https://digitalmag.com/articles/electric-vehicles\">Read Article</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: no-reply@musicblog.net\nsubject: New Review – \"Midnight Sonata\" Album\nreturn-path: alerts@musicblog.net\nbody: Our critics gave \"Midnight Sonata\" 4.5/5 stars. Full review at https://musicblog.net/reviews/midnight-sonata"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: alerts@smartlamp.io\nsubject: New Feature – Voice Control for All Lamps\nreturn-path: updates@smartlamp.io\nbody: <p>Control your lighting with simple voice commands. <a href=\"https://smartlamp.io/features/voice-control\">Learn More</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: notifications@healthplus.com\nsubject: Upcoming Webinar – Nutrition for Athletes\nreturn-path: alerts@healthplus.com\nbody: Join our live webinar on Dec 12 at 3 PM EST. Register at https://healthplus.com/webinar/nutrition"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: newsletters@fashiontrendz.com\nsubject: New Lookbook – Spring 2026 Collection\nreturn-path: updates@fashiontrendz.com\nbody: <p>Explore the fresh Spring 2026 lookbook. <a href=\"https://fashiontrendz.com/lookbook/spring-2026\">View Lookbook</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: alerts@localnews.org\nsubject: Community Spotlight – Volunteer of the Month\nreturn-path: newsletters@localnews.org\nbody: Read about Jane Smith’s inspiring volunteer work. https://localnews.org/spotlight/jane-smith"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: updates@codingbootcamp.com\nsubject: New Module – Cloud Computing Basics\nreturn-path: newsletters@codingbootcamp.com\nbody: <p>Start learning cloud fundamentals in our latest module. <a href=\"https://codingbootcamp.com/modules/cloud-basics\">Begin Now</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: no-reply@photoeditor.io\nsubject: New Filter – Vintage Film Pack Added\nreturn-path: alerts@photoeditor.io\nbody: Enhance your photos with the new Vintage Film Pack. Find it in the Filters section."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: alerts@gamingnews.com\nsubject: Upcoming Release – \"Realm of Shadows\" Trailer\nreturn-path: newsletters@gamingnews.com\nbody: <p>Watch the first look at \"Realm of Shadows\" releasing next month. <a href=\"https://gamingnews.com/trailers/realm-of-shadows\">Watch Trailer</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: notifications@wellnessapp.io\nsubject: Daily Mindfulness Prompt – 5 Minutes of Breathing\nreturn-path: alerts@wellnessapp.io\nbody: Take five minutes to focus on your breath. Open the app for guided breathing."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: newsletters@techmagazine.com\nsubject: Issue 58 – Special Edition on Quantum Computing\nreturn-path: updates@techmagazine.com\nbody: <p>Download the special edition PDF now. <a href=\"https://techmagazine.com/issue58.pdf\">Download PDF</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: alerts@citylibrary.org\nsubject: New Arrival – \"The Midnight Library\" by Matt Haig\nreturn-path: notifications@citylibrary.org\nbody: The popular novel is now available for checkout. Reserve your copy at https://citylibrary.org/catalog/12345"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: updates@photographyclub.com\nsubject: Photo Challenge – Capture Motion\nreturn-path: newsletters@photographyclub.com\nbody: <p>Submit your best motion shots by Dec 20 for a chance to win a prize. <a href=\"https://photographyclub.com/challenge/motion\">Enter Now</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: no-reply@cryptoexchange.com\nsubject: Withdrawal Complete – 0.8 ETH sent to your wallet\nreturn-path: alerts@cryptoexchange.com\nbody: Your withdrawal of 0.8 ETH has been processed. Transaction ID: TX123456789."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: alerts@fitnessgear.com\nsubject: New Product – Smart Resistance Bands\nreturn-path: newsletters@fitnessgear.com\nbody: <p>Track your strength training with our new smart bands. <a href=\"https://fitnessgear.com/products/smart-bands\">Shop Now</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: notifications@languagelearning.org\nsubject: Daily Practice – Spanish Verb Conjugation\nreturn-path: alerts@languagelearning.org\nbody: Spend 10 minutes practicing irregular verb conjugations. Open the app to start."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: newsletters@foodblogger.com\nsubject: New Recipe Video – Homemade Sushi Rolls\nreturn-path: updates@foodblogger.com\nbody: <p>Watch our step‑by‑step video tutorial. <a href=\"https://foodblogger.com/videos/sushi-rolls\">Watch Now</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: alerts@virtualconference.io\nsubject: Session Reminder – Keynote at 10 AM tomorrow\nreturn-path: notifications@virtualconference.io\nbody: Don't miss the opening keynote. Access the live stream at https://virtualconference.io/room/keynote"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: updates@smartsecurity.com\nsubject: New Feature – Facial Recognition for Door Locks\nreturn-path: newsletters@smartsecurity.com\nbody: <p>Enhance home security with facial recognition. <a href=\"https://smartsecurity.com/features/facial-recognition\">Learn More</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: notifications@mindfulnessapp.com\nsubject: Evening Reflection Prompt – Write 3 Things You’re Grateful For\nreturn-path: alerts@mindfulnessapp.com\nbody: Open the app and note three things you appreciated today."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: newsletters@traveladventure.com\nsubject: New Blog – Hiking the Appalachian Trail\nreturn-path: updates@traveladventure.com\nbody: <p>Read our guide to hiking the AT, including gear tips and trail maps. <a href=\"https://traveladventure.com/blog/appalachian-trail\">Read Now</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: alerts@stockalert.io\nsubject: Dividend Announcement – XYZ Corp declares $0.50 per share\nreturn-path: notifications@stockalert.io\nbody: XYZ Corp will pay a $0.50 dividend on Dec 15. Check your portfolio for details."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: updates@luxurycars.com\nsubject: New Model Launch – 2026 Aurora Coupe\nreturn-path: newsletters@luxurycars.com\nbody: <p>Explore the sleek design and performance specs of the 2026 Aurora Coupe. <a href=\"https://luxurycars.com/models/aurora-coupe\">View Details</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: alerts@onlinelearning.org\nsubject: Certificate Earned – Project Management Professional\nreturn-path: notifications@onlinelearning.org\nbody: Congratulations on earning your PMP certificate! Download it from your dashboard."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: newsletters@techpodcast.com\nsubject: New Episode – \"Cybersecurity Trends 2025\"\nreturn-path: updates@techpodcast.com\nbody: <p>Listen to insights from industry leaders on emerging cyber threats. <a href=\"https://techpodcast.com/episodes/cybersecurity-2025\">Play Episode</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: no-reply@fitnesscoach.com\nsubject: Your Weekly Meal Plan – High‑Protein Options\nreturn-path: alerts@fitnesscoach.com\nbody: Check out this week's high‑protein meals tailored to your goals: https://fitnesscoach.com/mealplan/weekly"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: alerts@weatherapp.io\nsubject: Temperature Drop Tonight – Expect 30°F\nreturn-path: updates@weatherapp.io\nbody: <p>Tonight's low will be 30°F. Dress warmly if you're heading out.</p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: notifications@cityparking.com\nsubject: Parking Spot Reserved – Spot #42 in Garage B\nreturn-path: alerts@cityparking.com\nbody: Your reservation for spot #42 expires at 7 PM today. Arrive early to avoid penalties."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: newsletters@artstudio.com\nsubject: New Workshop – Watercolor Techniques for Beginners\nreturn-path: updates@artstudio.com\nbody: <p>Join our live workshop on Dec 10 at 2 PM. Reserve your spot now! <a href=\"https://artstudio.com/workshops/watercolor-beginners\">Register</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: alerts@cryptoexchange.com\nsubject: Market Alert – Bitcoin price crossed $50,000\nreturn-path: notifications@cryptoexchange.com\nbody: Bitcoin reached $50,000 today. Review your portfolio for potential actions."
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/html\nfrom: updates@homeautomation.com\nsubject: New Integration – Google Home Support Added\nreturn-path: newsletters@homeautomation.com\nbody: <p>Control your smart devices via Google Assistant. <a href=\"https://homeautomation.com/integrations/google-home\">Learn How</a></p>"
+  },
+  {
+    "category": "transactional",
+    "subcategory": "updates",
+    "content": "content-type: text/plain\nfrom: notifications@languagepartner.io\nsubject: Conversation Partner Available – Meet Mateo (Spanish)\nreturn-path: alerts@languagepartner.io\nbody: Connect with Mateo for a 30‑minute Spanish practice session today. Join at https://languagepartner.io/room/987"
+  }
+]

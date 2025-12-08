@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: email-classifier
+  r2dbc:
+    url: r2dbc:postgresql://${DB_HOST}:${DB_PORT:5432}/${DB_DATABASE_NAME}
+    username: ${DB_USERNAME}
+    password: ${DB_PASSWORD}
+    properties:
+      sslMode: ${DB_SSL_MODE:prefer}
+  flyway:
+    url: jdbc:postgresql://${DB_HOST}:${DB_PORT:5432}/${DB_DATABASE_NAME}?options=-c%20log_statement=all
+    user: ${DB_USERNAME}
+    password: ${DB_PASSWORD}
+  ai:
+    ollama:
+      base-url: ${OLLAMA_BASE_URL:http://localhost:11434}
+      init:
+        pull-model-strategy: never
+      embedding:
+        options:
+          model: ${OLLAMA_EMBEDDING_MODEL:embeddinggemma}

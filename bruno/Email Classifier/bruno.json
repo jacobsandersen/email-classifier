@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Email Classifier",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
