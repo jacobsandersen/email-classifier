@@ -3,7 +3,7 @@ create table if not exists embeddings (
     category varchar not null,
     subcategory varchar,
     content text,
-    embedding vector(768)
+    embedding vector(1024)
 );
 
 create index if not exists idx_embeddings_category on embeddings using btree (category);
@@ -13,7 +13,7 @@ create table if not exists centroids (
     id uuid primary key default gen_random_uuid(),
     category varchar not null,
     subcategory varchar,
-    embedding vector(768)
+    embedding vector(1024)
 );
 
 create unique index if not exists idx_centroids_unique on centroids using btree (category, subcategory) nulls not distinct;

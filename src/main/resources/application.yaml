@@ -12,13 +12,11 @@ spring:
     user: ${DB_USERNAME}
     password: ${DB_PASSWORD}
   ai:
-    ollama:
-      base-url: ${OLLAMA_BASE_URL:http://localhost:11434}
-      init:
-        pull-model-strategy: never
+    mistralai:
+      api-key: ${MISTRAL_API_KEY}
       embedding:
         options:
-          model: ${OLLAMA_EMBEDDING_MODEL:embeddinggemma}
+          model: ${MISTRAL_EMBEDDING_MODEL:mistral-embed}
 app:
   prompt:
     prefix:
