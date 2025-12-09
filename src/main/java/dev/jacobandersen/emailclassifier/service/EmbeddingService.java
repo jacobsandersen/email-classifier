@@ -9,6 +9,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.ai.embedding.EmbeddingModel;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Mono;
 import reactor.core.publisher.Sinks;
@@ -30,6 +31,12 @@ public class EmbeddingService {
     private final AtomicInteger currentQueueSize = new AtomicInteger(0);
     private final ExecutorService executor = Executors.newFixedThreadPool(8);
 
+    @Value("${app.prompt.prefix.embedding}")
+    private String embeddingPrefix;
+
+    @Value("${app.prompt.prefix.classification}")
+    private String classificationPrefix;
+
     @Autowired
     public EmbeddingService(final EmbeddingModel model, EmbeddingRepository embeddingRepository) {
         this.model = model;
@@ -38,7 +45,7 @@ public class EmbeddingService {
     }
 
     public Mono<float[]> embedForClassification(String text) {
-        return embedText("classification: %s".formatted(text));
+        return embedText("%s%s".formatted(classificationPrefix, text));
     }
 
     public Mono<float[]> embedText(String text) {
@@ -106,7 +113,7 @@ public class EmbeddingService {
     private Mono<EmbeddingEntity> processEmbedding(GenerateEmbeddingRequest request) {
         final var content = request.content();
 
-        return embedForClassification(content)
+        return embedText("%s%s".formatted(embeddingPrefix, content))
                 .map(embedding -> new EmbeddingEntity(request.category(), request.subcategory(), content, embedding))
                 .flatMap(embeddingRepository::save)
                 .onErrorResume(throwable -> {

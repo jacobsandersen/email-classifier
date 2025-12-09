@@ -19,3 +19,8 @@ spring:
       embedding:
         options:
           model: ${OLLAMA_EMBEDDING_MODEL:embeddinggemma}
+app:
+  prompt:
+    prefix:
+      embedding: ${APP_PROMPT_PREFIX_EMBEDDING:}
+      classification: ${APP_PROMPT_PREFIX_CLASSIFICATION:}
