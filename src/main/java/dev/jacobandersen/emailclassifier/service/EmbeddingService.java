@@ -111,10 +111,14 @@ public class EmbeddingService {
         final var perSecond = batchMaxPerSecond <= 0 ? 1 : batchMaxPerSecond;
         final var delayPerElement = 1000 / perSecond;
 
-        Flux.zip(embeddingRequestSink.asFlux(), Flux.interval(Duration.ofMillis(delayPerElement)))
+        embeddingRequestSink
+                .asFlux()
                 .flatMap(
-                        tuple -> processEmbedding(tuple.getT1())
-                                .doFinally(_ -> currentQueueSize.decrementAndGet()),
+                        req -> Mono.just(req)
+                                .delayUntil(ignore -> Mono.delay(Duration.ofMillis(delayPerElement)))
+                                .flatMap(r -> processEmbedding(r)
+                                        .doFinally(_ -> currentQueueSize.decrementAndGet())
+                                ),
                         perSecond
                 )
                 .subscribe();
