@@ -12,6 +12,8 @@ spring:
     user: ${DB_USERNAME}
     password: ${DB_PASSWORD}
   ai:
+    retry:
+      on-client-errors: ${AI_RETRY_ON_CLIENT_ERRORS:true}
     mistralai:
       api-key: ${MISTRAL_API_KEY}
       embedding:
