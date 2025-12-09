@@ -11,10 +11,12 @@ import org.springframework.ai.embedding.EmbeddingModel;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
+import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 import reactor.core.publisher.Sinks;
 import reactor.core.scheduler.Schedulers;
 
+import java.time.Duration;
 import java.util.List;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -36,6 +38,9 @@ public class EmbeddingService {
 
     @Value("${app.prompt.prefix.classification}")
     private String classificationPrefix;
+
+    @Value("${app.batch.max-per-second}")
+    private int batchMaxPerSecond;
 
     @Autowired
     public EmbeddingService(final EmbeddingModel model, EmbeddingRepository embeddingRepository) {
@@ -103,10 +108,15 @@ public class EmbeddingService {
 
     @PostConstruct
     private void processEmbeddingQueue() {
-        embeddingRequestSink
-                .asFlux()
-                .flatMap(req -> processEmbedding(req)
-                        .doFinally(_ -> currentQueueSize.decrementAndGet()))
+        final var perSecond = batchMaxPerSecond <= 0 ? 1 : batchMaxPerSecond;
+        final var delayPerElement = 1000 / perSecond;
+
+        Flux.zip(embeddingRequestSink.asFlux(), Flux.interval(Duration.ofMillis(delayPerElement)))
+                .flatMap(
+                        tuple -> processEmbedding(tuple.getT1())
+                                .doFinally(_ -> currentQueueSize.decrementAndGet()),
+                        perSecond
+                )
                 .subscribe();
     }
 

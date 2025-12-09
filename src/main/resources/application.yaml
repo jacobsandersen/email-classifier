@@ -18,6 +18,8 @@ spring:
         options:
           model: ${MISTRAL_EMBEDDING_MODEL:mistral-embed}
 app:
+  batch:
+    max-per-second: ${MAX_BATCH_EMBEDDING_PER_SECOND:5}
   prompt:
     prefix:
       embedding: ${APP_PROMPT_PREFIX_EMBEDDING:}
